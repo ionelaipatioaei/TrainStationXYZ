@@ -1,0 +1,23 @@
+.matItem {
+    vertical-align: middle;
+}
+
+#matList {
+    margin: 0;
+}
+
+.line {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+div.card {
+    border: 2px rgba(255, 255, 255, 0) solid;
+    transition: border 0.7s ease-in;
+}
+
+.selected {
+    border: 2px #087683 solid !important;
+}

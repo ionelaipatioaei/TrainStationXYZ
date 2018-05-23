@@ -1,0 +1,11 @@
+.imgBg {
+    background: no-repeat center;
+    background-image: url("/notFoundBg.jpg");
+    min-height: 600px;
+}
+
+.notFoundTxt {
+    padding-top: 10%;
+    color: #fff;
+    margin: 0;
+}

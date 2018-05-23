@@ -1,0 +1,32 @@
+.bg {
+    background: no-repeat center;
+    background-image: url("/homepageBg.jpg");
+    height: 20em;
+}
+
+.title {
+    margin: 0;
+    padding: 0.5em;
+    color: #fff;
+}
+
+.PTitle {
+    margin-bottom: 0;
+}
+
+.txt {
+    padding: 16px;
+    color: #fff;
+    margin: 0;
+}
+
+.txt-2 {
+    font-size: 22px;
+    font-weight: 300;
+}
+
+@media(min-width: 600px) {
+    .txt {
+        font-size: 28px;
+    }
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <!-- Helper page to insert extension data in the database, no longer used -->
+    <head>
+        <meta charset="utf-8">
+        <title>Create new extension!</title>
+
+        <style>
+            .def {
+                margin: 0px 8px 2px 8px;
+            }
+            .line {
+                display: inline;
+            }
+        </style>
+
+    </head>
+    <body>
+        <h1>New extension</h1>
+
+        <form action="/api/extensions" method="POST">
+            <p class="def">Category</p>
+            <input class="def" type="text" name="category"><br>
+            <p class="def">Sub-Category</p>
+            <input class="def" type="text" name="subCategory"><br>
+            <p class="def">Description</p>
+            <input class="def" type="text" name="desc"><br>
+            <p class="def">Gem Level Req</p>
+            <input class="def" type="text" name="gLevel"><br>
+            <p class="def">Gem Xp Earned</p>
+            <input class="def" type="text" name="gXp"><br>
+            <p class="def">Gem Price Req</p>
+            <input class="def" type="text" name="gPrice"><br>
+            <p class="def">Level Req</p>
+            <input class="def" type="text" name="level"><br>
+            <p class="def">Xp Earned</p>
+            <input class="def" type="text" name="xp"><br></br>
+
+            <p class="def">Mat0, Amount0</p>
+            <input class="def line" type="text" name="mat0">
+            <input class="def line" type="text" name="amount0">
+
+            <p class="def">Mat1, Amount1</p>
+            <input class="def line" type="text" name="mat1" value="null">
+            <input class="def line" type="text" name="amount1" value="0">
+
+            <p class="def">Mat2, Amount2</p>
+            <input class="def line" type="text" name="mat2" value="null">
+            <input class="def line" type="text" name="amount2" value="0"><br><br>
+
+            <input type="submit" value="Submit"><br>
+        </form>
+
+    </body>
+</html>

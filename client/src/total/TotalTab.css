@@ -1,0 +1,16 @@
+.matItem {
+    vertical-align: middle;
+}
+
+#discount {
+    font-size: 1.4em;
+}
+
+.rowSpace {
+    width: 25%;
+}
+
+.materialInput {
+    padding: 0;
+    margin: 0;
+}

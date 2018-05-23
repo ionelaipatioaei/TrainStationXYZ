@@ -1,0 +1,37 @@
+.navDisabled {
+    pointer-events: none;
+    background: #195e67 !important;
+    box-shadow: none;
+    color: #8f8f8f !important;
+    cursor: default;
+}
+
+.iconPos {
+    margin: 0 !important;
+    padding-right: 4px;
+    font-size: 22px !important;
+}
+
+#pageTitle {
+    display: inline;
+}
+
+#pageTitleAlt {
+    display: none;
+}
+
+@media(max-width: 540px) {
+    .tabText {
+        display: none;
+    }
+}
+
+@media(max-width: 740px) {
+    #pageTitle {
+        display: none;
+    }
+
+    #pageTitleAlt {
+        display: inline-block;
+    }
+}
