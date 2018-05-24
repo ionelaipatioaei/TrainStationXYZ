@@ -1,6 +1,8 @@
 import React, {Component} from "react";
 import "./ExtensionOptions.css";
 
+import {Link} from "react-router-dom";
+
 class ExtensionOptions extends Component {
     render() {
         return (
@@ -22,9 +24,12 @@ class ExtensionOptions extends Component {
                             <div className="card-reveal center-align">
                                 <span className="card-title grey-text text-darken-4">Select a Subcategory<i className="material-icons right">close</i></span>
                                 <p className="left-align">The more lines you have the better!</p>
-                                <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/slots/localSlots">Local Slots</a>
+                                {/* <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/slots/localSlots">Local Slots</a>
                                 <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/slots/internationalSlots">International Slots</a>
-                                <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/slots/depotSlots">Depot Slots</a>
+                                <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/slots/depotSlots">Depot Slots</a> */}
+                                <Link className="btn btn-custom secondaryColor selectSpace" to="/extensions/slots/localSlots">Local Slots</Link>
+                                <Link className="btn btn-custom secondaryColor selectSpace" to="/extensions/slots/internationalSlots">International Slots</Link>
+                                <Link className="btn btn-custom secondaryColor selectSpace" to="/extensions/slots/depotSlots">Depot Slots</Link>
                             </div>
                         </div>
                     </div>
@@ -44,11 +49,16 @@ class ExtensionOptions extends Component {
                             <div className="card-reveal center-align">
                                 <span className="card-title grey-text text-darken-4">Select a Station<i className="material-icons right">close</i></span>
                                 <p className="left-align">The first item represents the cost of the station.</p>
-                                <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/stations/main">Main Station</a>
+                                {/* <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/stations/main">Main Station</a>
                                 <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/stations/second">Second Station</a>
                                 <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/stations/third">Third Station</a>
                                 <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/stations/fourth">Fourth Station</a>
-                                <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/stations/fifth">Fifth Station</a>
+                                <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/stations/fifth">Fifth Station</a> */}
+                                <Link className="btn btn-custom secondaryColor selectSpace" to="/extensions/stations/main">Main Station</Link>
+                                <Link className="btn btn-custom secondaryColor selectSpace" to="/extensions/stations/second">Second Station</Link>
+                                <Link className="btn btn-custom secondaryColor selectSpace" to="/extensions/stations/third">Third Station</Link>
+                                <Link className="btn btn-custom secondaryColor selectSpace" to="/extensions/stations/fourth">Fourth Station</Link>
+                                <Link className="btn btn-custom secondaryColor selectSpace" to="/extensions/stations/fifth">Fifth Station</Link>
                             </div>
                         </div>
                     </div>
@@ -68,9 +78,12 @@ class ExtensionOptions extends Component {
                             <div className="card-reveal center-align">
                                 <span className="card-title grey-text text-darken-4">Select a Subcategory<i className="material-icons right">close</i></span>
                                 <p className="left-align">Some themes are required in order to unlock new buildings!</p>
-                                <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/technology/trainRoute">Route Planner</a>
+                                {/* <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/technology/trainRoute">Route Planner</a>
                                 <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/technology/other">Other</a>
-                                <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/themes/all">Themes</a>
+                                <a className="btn btn-custom secondaryColor selectSpace" href="/extensions/themes/all">Themes</a> */}
+                                <Link className="btn btn-custom secondaryColor selectSpace" to="/extensions/technology/trainRoute">Route Planner</Link>
+                                <Link className="btn btn-custom secondaryColor selectSpace" to="/extensions/technology/other">Other</Link>
+                                <Link className="btn btn-custom secondaryColor selectSpace" to="/extensions/themes/all">Themes</Link>
                             </div>
                         </div>
                     </div>
@@ -85,7 +98,8 @@ class ExtensionOptions extends Component {
                                 <p>Rails determine how many trains you can have at once in your station. There are 3 types of rails: normal, maglev & hyperloop.</p>
                             </div>
                             <div className="card-action center-align">
-                                <a className="btn btn-custom secondaryColor" href="/extensions/rails/all">See Upgrades</a>
+                                {/* <a className="btn btn-custom secondaryColor" href="/extensions/rails/all">See Upgrades</a> */}
+                                <Link className="btn btn-custom secondaryColor" to="/extensions/rails/all">See Upgrades</Link>
                             </div>
                         </div>
                     </div>
@@ -100,7 +114,8 @@ class ExtensionOptions extends Component {
                                 <p>In order to store more items you need to expand your storage space. You can free some up by storing trains in depot!</p>
                             </div>
                             <div className="card-action center-align">
-                                <a className="btn btn-custom secondaryColor" href="/extensions/storage/all">See Upgrades</a>
+                                {/* <a className="btn btn-custom secondaryColor" href="/extensions/storage/all">See Upgrades</a> */}
+                                <Link className="btn btn-custom secondaryColor" to="/extensions/storage/all">See Upgrades</Link>
                             </div>
                         </div>
                     </div>
