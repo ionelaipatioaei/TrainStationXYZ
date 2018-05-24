@@ -18,7 +18,7 @@ app.get("/api/*", (req, res) => {
     res.json({message: "no path defined"});
 });
 
-app.get("/*", (req, res) => {
+app.get("*", (req, res) => {
     res.sendFile(path.join("build/index.html", 'build', 'index.html'));
 });
 
