@@ -8,10 +8,6 @@ app.use(bodyParser.json());
 
 app.use(express.static(path.join(__dirname, 'build')));
 
-app.get("/", (req, res) => {
-    res.sendFile(path.join("build/index.html", 'build', 'index.html'));
-});
-
 const extensionsRoutes = require("./routes/extensions.js");
 const contractsRoutes = require("./routes/contracts.js");
 
@@ -20,6 +16,10 @@ app.use("/api/contracts", contractsRoutes);
 
 app.get("/api/*", (req, res) => {
     res.json({message: "no path defined"});
+});
+
+app.get("/*", (req, res) => {
+    res.sendFile(path.join("build/index.html", 'build', 'index.html'));
 });
 
 app.listen(process.env.PORT || "3001", () => {

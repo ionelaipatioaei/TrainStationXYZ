@@ -4,6 +4,8 @@
   "description": "A simple tool to help organize your game()\u001b[DTS\u001b[).",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "deploy": "gcloud app deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
