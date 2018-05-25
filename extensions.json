@@ -1,0 +1,10970 @@
+[
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 250
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#5",
+    "gLevel": 0,
+    "gXp": 0,
+    "gPrice": 0,
+    "level": 4,
+    "xp": 55
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 50000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#6",
+    "gLevel": 8,
+    "gXp": 1700,
+    "gPrice": 50,
+    "level": 13,
+    "xp": 1320
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 10000
+      },
+      {
+        "mat": "nails",
+        "amount": 10000
+      },
+      {
+        "mat": "bricks",
+        "amount": 5000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#7",
+    "gLevel": 13,
+    "gXp": 4550,
+    "gPrice": 100,
+    "level": 19,
+    "xp": 2200
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 15000
+      },
+      {
+        "mat": "bricks",
+        "amount": 10000
+      },
+      {
+        "mat": "glass",
+        "amount": 5000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#8",
+    "gLevel": 19,
+    "gXp": 8150,
+    "gPrice": 140,
+    "level": 26,
+    "xp": 4500
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 600000
+      },
+      {
+        "mat": "steel",
+        "amount": 10000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#9",
+    "gLevel": 26,
+    "gXp": 12950,
+    "gPrice": 180,
+    "level": 34,
+    "xp": 7200
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 50000
+      },
+      {
+        "mat": "steel",
+        "amount": 30000
+      },
+      {
+        "mat": "gravel",
+        "amount": 15000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#10",
+    "gLevel": 34,
+    "gXp": 20850,
+    "gPrice": 240,
+    "level": 43,
+    "xp": 8000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 350000
+      },
+      {
+        "mat": "steel",
+        "amount": 100000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#11",
+    "gLevel": 43,
+    "gXp": 31000,
+    "gPrice": 300,
+    "level": 53,
+    "xp": 25000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 250000
+      },
+      {
+        "mat": "steel",
+        "amount": 200000
+      },
+      {
+        "mat": "gravel",
+        "amount": 200000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#12",
+    "gLevel": 53,
+    "gXp": 50000,
+    "gPrice": 350,
+    "level": 64,
+    "xp": 50000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 2000000
+      },
+      {
+        "mat": "steel",
+        "amount": 400000
+      },
+      {
+        "mat": "gravel",
+        "amount": 400000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#13",
+    "gLevel": 64,
+    "gXp": 105000,
+    "gPrice": 400,
+    "level": 76,
+    "xp": 10500
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 500000
+      },
+      {
+        "mat": "steel",
+        "amount": 1000000
+      },
+      {
+        "mat": "gravel",
+        "amount": 1000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#14",
+    "gLevel": 76,
+    "gXp": 200000,
+    "gPrice": 450,
+    "level": 89,
+    "xp": 200000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 1300000
+      },
+      {
+        "mat": "steel",
+        "amount": 1450000
+      },
+      {
+        "mat": "u-235",
+        "amount": 750000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#15",
+    "gLevel": 89,
+    "gXp": 295000,
+    "gPrice": 450,
+    "level": 103,
+    "xp": 295000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 1690000
+      },
+      {
+        "mat": "gravel",
+        "amount": 1960000
+      },
+      {
+        "mat": "u-235",
+        "amount": 990000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#16",
+    "gLevel": 103,
+    "gXp": 395000,
+    "gPrice": 450,
+    "level": 117,
+    "xp": 395000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 2250000
+      },
+      {
+        "mat": "steel",
+        "amount": 1850000
+      },
+      {
+        "mat": "cement",
+        "amount": 1100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#17",
+    "gLevel": 117,
+    "gXp": 420000,
+    "gPrice": 450,
+    "level": 131,
+    "xp": 420000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 2250000
+      },
+      {
+        "mat": "gravel",
+        "amount": 1850000
+      },
+      {
+        "mat": "cement",
+        "amount": 1100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#18",
+    "gLevel": 131,
+    "gXp": 420000,
+    "gPrice": 450,
+    "level": 145,
+    "xp": 420000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 2250000
+      },
+      {
+        "mat": "steel",
+        "amount": 1850000
+      },
+      {
+        "mat": "rubber",
+        "amount": 1100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#19",
+    "gLevel": 145,
+    "gXp": 420000,
+    "gPrice": 450,
+    "level": 159,
+    "xp": 420000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 1750000
+      },
+      {
+        "mat": "rubber",
+        "amount": 1750000
+      },
+      {
+        "mat": "titanium",
+        "amount": 100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#20",
+    "gLevel": 159,
+    "gXp": 420000,
+    "gPrice": 450,
+    "level": 173,
+    "xp": 420000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 1950000
+      },
+      {
+        "mat": "cement",
+        "amount": 1750000
+      },
+      {
+        "mat": "carbon",
+        "amount": 1250000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#21",
+    "gLevel": 173,
+    "gXp": 420000,
+    "gPrice": 450,
+    "level": 187,
+    "xp": 420000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 4950000
+      },
+      {
+        "mat": "fuel",
+        "amount": 1950000
+      },
+      {
+        "mat": "u-235",
+        "amount": 1650000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#22",
+    "gLevel": 187,
+    "gXp": 420000,
+    "gPrice": 450,
+    "level": 201,
+    "xp": 420000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 20000000
+      },
+      {
+        "mat": "titanium",
+        "amount": 250000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#23",
+    "gLevel": 201,
+    "gXp": 420000,
+    "gPrice": 450,
+    "level": 215,
+    "xp": 420000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 19000000
+      },
+      {
+        "mat": "nails",
+        "amount": 850000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#24",
+    "gLevel": 215,
+    "gXp": 425000,
+    "gPrice": 450,
+    "level": 229,
+    "xp": 425000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 150000
+      },
+      {
+        "mat": "rubber",
+        "amount": 1450000
+      },
+      {
+        "mat": "wires",
+        "amount": 1400000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#25",
+    "gLevel": 229,
+    "gXp": 425000,
+    "gPrice": 450,
+    "level": 243,
+    "xp": 425000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 2000000
+      },
+      {
+        "mat": "nails",
+        "amount": 2000000
+      },
+      {
+        "mat": "plastics",
+        "amount": 1550000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#26",
+    "gLevel": 243,
+    "gXp": 425000,
+    "gPrice": 450,
+    "level": 257,
+    "xp": 425000
+  },
+  {
+    "mats": [
+      {
+        "mat": "carbon",
+        "amount": 1350000
+      },
+      {
+        "mat": "titanium",
+        "amount": 1350000
+      },
+      {
+        "mat": "silicon",
+        "amount": 1300000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#27",
+    "gLevel": 257,
+    "gXp": 425000,
+    "gPrice": 450,
+    "level": 271,
+    "xp": 425000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 1550000
+      },
+      {
+        "mat": "u-235",
+        "amount": 1400000
+      },
+      {
+        "mat": "marble",
+        "amount": 1300000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#28",
+    "gLevel": 271,
+    "gXp": 425000,
+    "gPrice": 450,
+    "level": 285,
+    "xp": 425000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wires",
+        "amount": 1200000
+      },
+      {
+        "mat": "plastics",
+        "amount": 1200000
+      },
+      {
+        "mat": "silicon",
+        "amount": 1200000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#29",
+    "gLevel": 285,
+    "gXp": 425000,
+    "gPrice": 450,
+    "level": 299,
+    "xp": 425000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 2000000
+      },
+      {
+        "mat": "nails",
+        "amount": 2000000
+      },
+      {
+        "mat": "rubber",
+        "amount": 1000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#30",
+    "gLevel": 299,
+    "gXp": 425000,
+    "gPrice": 450,
+    "level": 313,
+    "xp": 425000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 40000000
+      },
+      {
+        "mat": "fuel",
+        "amount": 2000000
+      },
+      {
+        "mat": "titanium",
+        "amount": 2000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#31",
+    "gLevel": 313,
+    "gXp": 425000,
+    "gPrice": 450,
+    "level": 327,
+    "xp": 425000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 1750000
+      },
+      {
+        "mat": "rubber",
+        "amount": 1750000
+      },
+      {
+        "mat": "wires",
+        "amount": 1750000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#32",
+    "gLevel": 327,
+    "gXp": 425000,
+    "gPrice": 450,
+    "level": 341,
+    "xp": 425000
+  },
+  {
+    "mats": [
+      {
+        "mat": "u-235",
+        "amount": 2000000
+      },
+      {
+        "mat": "cement",
+        "amount": 1900000
+      },
+      {
+        "mat": "plastics",
+        "amount": 1800000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#33",
+    "gLevel": 341,
+    "gXp": 475000,
+    "gPrice": 450,
+    "level": 355,
+    "xp": 475000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 2000000
+      },
+      {
+        "mat": "gravel",
+        "amount": 2000000
+      },
+      {
+        "mat": "wires",
+        "amount": 2000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#34",
+    "gLevel": 355,
+    "gXp": 500000,
+    "gPrice": 455,
+    "level": 369,
+    "xp": 500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 2000000
+      },
+      {
+        "mat": "steel",
+        "amount": 2000000
+      },
+      {
+        "mat": "silicon",
+        "amount": 2000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#35",
+    "gLevel": 369,
+    "gXp": 500000,
+    "gPrice": 455,
+    "level": 383,
+    "xp": 500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 2000000
+      },
+      {
+        "mat": "fuel",
+        "amount": 2000000
+      },
+      {
+        "mat": "titanium",
+        "amount": 2000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#36",
+    "gLevel": 383,
+    "gXp": 500000,
+    "gPrice": 455,
+    "level": 397,
+    "xp": 500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 2000000
+      },
+      {
+        "mat": "carbon",
+        "amount": 2000000
+      },
+      {
+        "mat": "marble",
+        "amount": 2000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#37",
+    "gLevel": 397,
+    "gXp": 500000,
+    "gPrice": 455,
+    "level": 411,
+    "xp": 500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 2000000
+      },
+      {
+        "mat": "plastics",
+        "amount": 2000000
+      },
+      {
+        "mat": "silicon",
+        "amount": 2000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#38",
+    "gLevel": 411,
+    "gXp": 500000,
+    "gPrice": 455,
+    "level": 425,
+    "xp": 500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 2000000
+      },
+      {
+        "mat": "cement",
+        "amount": 2000000
+      },
+      {
+        "mat": "rubber",
+        "amount": 2000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#39",
+    "gLevel": 425,
+    "gXp": 500000,
+    "gPrice": 455,
+    "level": 439,
+    "xp": 500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 2000000
+      },
+      {
+        "mat": "u-235",
+        "amount": 2000000
+      },
+      {
+        "mat": "silicon",
+        "amount": 2000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#40",
+    "gLevel": 439,
+    "gXp": 500000,
+    "gPrice": 455,
+    "level": 453,
+    "xp": 500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 2400000
+      },
+      {
+        "mat": "fuel",
+        "amount": 2300000
+      },
+      {
+        "mat": "gravel",
+        "amount": 2500000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#41",
+    "gLevel": 453,
+    "gXp": 550000,
+    "gPrice": 455,
+    "level": 467,
+    "xp": 550000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 2800000
+      },
+      {
+        "mat": "marble",
+        "amount": 2800000
+      },
+      {
+        "mat": "wires",
+        "amount": 2800000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#42",
+    "gLevel": 467,
+    "gXp": 570000,
+    "gPrice": 455,
+    "level": 481,
+    "xp": 570000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 3100000
+      },
+      {
+        "mat": "steel",
+        "amount": 3100000
+      },
+      {
+        "mat": "carbon",
+        "amount": 3100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#43",
+    "gLevel": 481,
+    "gXp": 600000,
+    "gPrice": 455,
+    "level": 495,
+    "xp": 600000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 3400000
+      },
+      {
+        "mat": "gravel",
+        "amount": 3400000
+      },
+      {
+        "mat": "titanium",
+        "amount": 3400000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#44",
+    "gLevel": 495,
+    "gXp": 630000,
+    "gPrice": 455,
+    "level": 509,
+    "xp": 630000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 3725000
+      },
+      {
+        "mat": "u-235",
+        "amount": 3725000
+      },
+      {
+        "mat": "marble",
+        "amount": 3725000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#45",
+    "gLevel": 509,
+    "gXp": 660000,
+    "gPrice": 455,
+    "level": 523,
+    "xp": 660000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 4100000
+      },
+      {
+        "mat": "cement",
+        "amount": 4100000
+      },
+      {
+        "mat": "wires",
+        "amount": 4100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#46",
+    "gLevel": 532,
+    "gXp": 690000,
+    "gPrice": 455,
+    "level": 537,
+    "xp": 690000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 4500000
+      },
+      {
+        "mat": "rubber",
+        "amount": 4500000
+      },
+      {
+        "mat": "plastics",
+        "amount": 4500000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#47",
+    "gLevel": 537,
+    "gXp": 720000,
+    "gPrice": 455,
+    "level": 551,
+    "xp": 720000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 4900000
+      },
+      {
+        "mat": "gravel",
+        "amount": 4900000
+      },
+      {
+        "mat": "silicon",
+        "amount": 4900000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#48",
+    "gLevel": 551,
+    "gXp": 750000,
+    "gPrice": 455,
+    "level": 565,
+    "xp": 750000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 5300000
+      },
+      {
+        "mat": "carbon",
+        "amount": 5300000
+      },
+      {
+        "mat": "marble",
+        "amount": 5300000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#49",
+    "gLevel": 565,
+    "gXp": 780000,
+    "gPrice": 455,
+    "level": 579,
+    "xp": 780000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 5700000
+      },
+      {
+        "mat": "titanium",
+        "amount": 5700000
+      },
+      {
+        "mat": "wires",
+        "amount": 5700000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#50",
+    "gLevel": 579,
+    "gXp": 800000,
+    "gPrice": 455,
+    "level": 593,
+    "xp": 800000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 6100000
+      },
+      {
+        "mat": "glass",
+        "amount": 6100000
+      },
+      {
+        "mat": "fuel",
+        "amount": 6100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#51",
+    "gLevel": 593,
+    "gXp": 820000,
+    "gPrice": 455,
+    "level": 607,
+    "xp": 820000
+  },
+  {
+    "mats": [
+      {
+        "mat": "u-235",
+        "amount": 6500000
+      },
+      {
+        "mat": "cement",
+        "amount": 6500000
+      },
+      {
+        "mat": "rubber",
+        "amount": 6500000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#52",
+    "gLevel": 607,
+    "gXp": 850000,
+    "gPrice": 455,
+    "level": 621,
+    "xp": 850000
+  },
+  {
+    "mats": [
+      {
+        "mat": "marble",
+        "amount": 6900000
+      },
+      {
+        "mat": "wires",
+        "amount": 6900000
+      },
+      {
+        "mat": "plastics",
+        "amount": 6900000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#53",
+    "gLevel": 621,
+    "gXp": 900000,
+    "gPrice": 455,
+    "level": 635,
+    "xp": 900000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 7400000
+      },
+      {
+        "mat": "gravel",
+        "amount": 7400000
+      },
+      {
+        "mat": "silicon",
+        "amount": 7400000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#54",
+    "gLevel": 635,
+    "gXp": 950000,
+    "gPrice": 455,
+    "level": 649,
+    "xp": 950000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 7900000
+      },
+      {
+        "mat": "steel",
+        "amount": 7900000
+      },
+      {
+        "mat": "titanium",
+        "amount": 7900000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#55",
+    "gLevel": 649,
+    "gXp": 1000000,
+    "gPrice": 455,
+    "level": 663,
+    "xp": 1000000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 8500000
+      },
+      {
+        "mat": "fuel",
+        "amount": 8500000
+      },
+      {
+        "mat": "carbon",
+        "amount": 8500000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#56",
+    "gLevel": 663,
+    "gXp": 1100000,
+    "gPrice": 455,
+    "level": 677,
+    "xp": 1100000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 9100000
+      },
+      {
+        "mat": "u-235",
+        "amount": 9100000
+      },
+      {
+        "mat": "marble",
+        "amount": 9100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#57",
+    "gLevel": 677,
+    "gXp": 1250000,
+    "gPrice": 455,
+    "level": 691,
+    "xp": 1250000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 9600000
+      },
+      {
+        "mat": "steel",
+        "amount": 9600000
+      },
+      {
+        "mat": "silicon",
+        "amount": 9600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#58",
+    "gLevel": 691,
+    "gXp": 1500000,
+    "gPrice": 455,
+    "level": 705,
+    "xp": 1500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 10100000
+      },
+      {
+        "mat": "rubber",
+        "amount": 10100000
+      },
+      {
+        "mat": "titanium",
+        "amount": 10100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#59",
+    "gLevel": 705,
+    "gXp": 1700000,
+    "gPrice": 455,
+    "level": 719,
+    "xp": 1700000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 10600000
+      },
+      {
+        "mat": "gravel",
+        "amount": 10600000
+      },
+      {
+        "mat": "wires",
+        "amount": 10600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#60",
+    "gLevel": 719,
+    "gXp": 1900000,
+    "gPrice": 455,
+    "level": 733,
+    "xp": 1900000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 11100000
+      },
+      {
+        "mat": "bricks",
+        "amount": 11100000
+      },
+      {
+        "mat": "rubber",
+        "amount": 11100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#61",
+    "gLevel": 733,
+    "gXp": 2100000,
+    "gPrice": 455,
+    "level": 747,
+    "xp": 2100000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 11600000
+      },
+      {
+        "mat": "steel",
+        "amount": 11600000
+      },
+      {
+        "mat": "silicon",
+        "amount": 11600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#62",
+    "gLevel": 747,
+    "gXp": 2300000,
+    "gPrice": 455,
+    "level": 761,
+    "xp": 2300000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 12100000
+      },
+      {
+        "mat": "fuel",
+        "amount": 12100000
+      },
+      {
+        "mat": "marble",
+        "amount": 12100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#63",
+    "gLevel": 761,
+    "gXp": 2500000,
+    "gPrice": 455,
+    "level": 775,
+    "xp": 2500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 12600000
+      },
+      {
+        "mat": "u-235",
+        "amount": 12600000
+      },
+      {
+        "mat": "titanium",
+        "amount": 12600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#64",
+    "gLevel": 775,
+    "gXp": 2700000,
+    "gPrice": 455,
+    "level": 789,
+    "xp": 2700000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 13100000
+      },
+      {
+        "mat": "cement",
+        "amount": 13100000
+      },
+      {
+        "mat": "plastics",
+        "amount": 13100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#65",
+    "gLevel": 789,
+    "gXp": 2900000,
+    "gPrice": 455,
+    "level": 803,
+    "xp": 2900000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 13600000
+      },
+      {
+        "mat": "rubber",
+        "amount": 13600000
+      },
+      {
+        "mat": "silicon",
+        "amount": 13600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#66",
+    "gLevel": 803,
+    "gXp": 3100000,
+    "gPrice": 455,
+    "level": 817,
+    "xp": 3100000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 14100000
+      },
+      {
+        "mat": "cement",
+        "amount": 14100000
+      },
+      {
+        "mat": "wires",
+        "amount": 14100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#67",
+    "gLevel": 817,
+    "gXp": 3300000,
+    "gPrice": 455,
+    "level": 831,
+    "xp": 3300000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 14600000
+      },
+      {
+        "mat": "u-235",
+        "amount": 14600000
+      },
+      {
+        "mat": "marble",
+        "amount": 14600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#68",
+    "gLevel": 831,
+    "gXp": 3500000,
+    "gPrice": 455,
+    "level": 845,
+    "xp": 3500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 15100000
+      },
+      {
+        "mat": "fuel",
+        "amount": 15100000
+      },
+      {
+        "mat": "titanium",
+        "amount": 15100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#69",
+    "gLevel": 845,
+    "gXp": 3700000,
+    "gPrice": 845,
+    "level": 859,
+    "xp": 3700000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 15600000
+      },
+      {
+        "mat": "steel",
+        "amount": 15600000
+      },
+      {
+        "mat": "carbon",
+        "amount": 15600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#70",
+    "gLevel": 859,
+    "gXp": 3900000,
+    "gPrice": 455,
+    "level": 873,
+    "xp": 3900000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 16100000
+      },
+      {
+        "mat": "rubber",
+        "amount": 16100000
+      },
+      {
+        "mat": "plastics",
+        "amount": 16100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#71",
+    "gLevel": 873,
+    "gXp": 4100000,
+    "gPrice": 455,
+    "level": 887,
+    "xp": 4100000
+  },
+  {
+    "mats": [
+      {
+        "mat": "cement",
+        "amount": 16600000
+      },
+      {
+        "mat": "marble",
+        "amount": 16600000
+      },
+      {
+        "mat": "silicon",
+        "amount": 16600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#72",
+    "gLevel": 887,
+    "gXp": 4300000,
+    "gPrice": 455,
+    "level": 901,
+    "xp": 4300000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 17100000
+      },
+      {
+        "mat": "gravel",
+        "amount": 17100000
+      },
+      {
+        "mat": "u-235",
+        "amount": 17100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#73",
+    "gLevel": 901,
+    "gXp": 4500000,
+    "gPrice": 455,
+    "level": 915,
+    "xp": 4500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 17600000
+      },
+      {
+        "mat": "titanium",
+        "amount": 17600000
+      },
+      {
+        "mat": "wires",
+        "amount": 17600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#74",
+    "gLevel": 915,
+    "gXp": 4700000,
+    "gPrice": 455,
+    "level": 929,
+    "xp": 4700000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 18100000
+      },
+      {
+        "mat": "nails",
+        "amount": 18100000
+      },
+      {
+        "mat": "bricks",
+        "amount": 18100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#75",
+    "gLevel": 929,
+    "gXp": 4900000,
+    "gPrice": 455,
+    "level": 943,
+    "xp": 4900000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 18600000
+      },
+      {
+        "mat": "rubber",
+        "amount": 18600000
+      },
+      {
+        "mat": "carbon",
+        "amount": 18600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#76",
+    "gLevel": 943,
+    "gXp": 5100000,
+    "gPrice": 455,
+    "level": 957,
+    "xp": 5100000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 19100000
+      },
+      {
+        "mat": "marble",
+        "amount": 19100000
+      },
+      {
+        "mat": "plastics",
+        "amount": 19100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#77",
+    "gLevel": 957,
+    "gXp": 5300000,
+    "gPrice": 455,
+    "level": 971,
+    "xp": 5300000
+  },
+  {
+    "mats": [
+      {
+        "mat": "carbon",
+        "amount": 19600000
+      },
+      {
+        "mat": "wires",
+        "amount": 19600000
+      },
+      {
+        "mat": "silicon",
+        "amount": 19600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#78",
+    "gLevel": 971,
+    "gXp": 5500000,
+    "gPrice": 455,
+    "level": 985,
+    "xp": 5500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 20100000
+      },
+      {
+        "mat": "cement",
+        "amount": 20100000
+      },
+      {
+        "mat": "titanium",
+        "amount": 20100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#79",
+    "gLevel": 985,
+    "gXp": 5700000,
+    "gPrice": 455,
+    "level": 999,
+    "xp": 5700000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 20600000
+      },
+      {
+        "mat": "fuel",
+        "amount": 20600000
+      },
+      {
+        "mat": "steel",
+        "amount": 20600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#80",
+    "gLevel": 999,
+    "gXp": 5900000,
+    "gPrice": 455,
+    "level": 1013,
+    "xp": 5900000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 21100000
+      },
+      {
+        "mat": "rubber",
+        "amount": 21100000
+      },
+      {
+        "mat": "plastics",
+        "amount": 21100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#81",
+    "gLevel": 1013,
+    "gXp": 6100000,
+    "gPrice": 455,
+    "level": 1027,
+    "xp": 6100000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 21600000
+      },
+      {
+        "mat": "u-235",
+        "amount": 21600000
+      },
+      {
+        "mat": "cement",
+        "amount": 21600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#82",
+    "gLevel": 1027,
+    "gXp": 6300000,
+    "gPrice": 455,
+    "level": 1041,
+    "xp": 6300000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 22100000
+      },
+      {
+        "mat": "gravel",
+        "amount": 22100000
+      },
+      {
+        "mat": "wires",
+        "amount": 22100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#83",
+    "gLevel": 1041,
+    "gXp": 6500000,
+    "gPrice": 455,
+    "level": 1055,
+    "xp": 6500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "carbon",
+        "amount": 22600000
+      },
+      {
+        "mat": "titanium",
+        "amount": 22600000
+      },
+      {
+        "mat": "marble",
+        "amount": 22600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#84",
+    "gLevel": 1055,
+    "gXp": 6700000,
+    "gPrice": 455,
+    "level": 1069,
+    "xp": 6700000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 23100000
+      },
+      {
+        "mat": "fuel",
+        "amount": 23100000
+      },
+      {
+        "mat": "rubber",
+        "amount": 23100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#85",
+    "gLevel": 1069,
+    "gXp": 6900000,
+    "gPrice": 455,
+    "level": 1083,
+    "xp": 6900000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 23600000
+      },
+      {
+        "mat": "plastics",
+        "amount": 23600000
+      },
+      {
+        "mat": "silicon",
+        "amount": 23600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#86",
+    "gLevel": 1083,
+    "gXp": 7100000,
+    "gPrice": 455,
+    "level": 455,
+    "xp": 7100000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 24100000
+      },
+      {
+        "mat": "glass",
+        "amount": 24100000
+      },
+      {
+        "mat": "u-235",
+        "amount": 24100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#87",
+    "gLevel": 1097,
+    "gXp": 7300000,
+    "gPrice": 455,
+    "level": 1111,
+    "xp": 7300000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 24600000
+      },
+      {
+        "mat": "gravel",
+        "amount": 24600000
+      },
+      {
+        "mat": "titanium",
+        "amount": 24600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#88",
+    "gLevel": 1111,
+    "gXp": 7500000,
+    "gPrice": 455,
+    "level": 1125,
+    "xp": 7500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 25100000
+      },
+      {
+        "mat": "cement",
+        "amount": 25100000
+      },
+      {
+        "mat": "rubber",
+        "amount": 25100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#89",
+    "gLevel": 1125,
+    "gXp": 7700000,
+    "gPrice": 455,
+    "level": 1139,
+    "xp": 7700000
+  },
+  {
+    "mats": [
+      {
+        "mat": "carbon",
+        "amount": 25600000
+      },
+      {
+        "mat": "marble",
+        "amount": 25600000
+      },
+      {
+        "mat": "wires",
+        "amount": 25600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#90",
+    "gLevel": 1139,
+    "gXp": 7900000,
+    "gPrice": 455,
+    "level": 1153,
+    "xp": 7900000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 26100000
+      },
+      {
+        "mat": "steel",
+        "amount": 26100000
+      },
+      {
+        "mat": "plastics",
+        "amount": 26100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#91",
+    "gLevel": 1153,
+    "gXp": 8100000,
+    "gPrice": 455,
+    "level": 1167,
+    "xp": 8100000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 26600000
+      },
+      {
+        "mat": "fuel",
+        "amount": 26600000
+      },
+      {
+        "mat": "silicon",
+        "amount": 26600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#92",
+    "gLevel": 1167,
+    "gXp": 8300000,
+    "gPrice": 455,
+    "level": 1181,
+    "xp": 8300000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 27100000
+      },
+      {
+        "mat": "u-235",
+        "amount": 27100000
+      },
+      {
+        "mat": "titanium",
+        "amount": 27100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#93",
+    "gLevel": 1181,
+    "gXp": 8500000,
+    "gPrice": 455,
+    "level": 1195,
+    "xp": 8500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "lithium",
+        "amount": 8330000
+      },
+      {
+        "mat": "aerogel",
+        "amount": 8330000
+      },
+      {
+        "mat": "nanotubes",
+        "amount": 8330000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#94",
+    "gLevel": 1195,
+    "gXp": 8700000,
+    "gPrice": 455,
+    "level": 1195,
+    "xp": 8700000
+  },
+  {
+    "mats": [
+      {
+        "mat": "neodymium",
+        "amount": 8380000
+      },
+      {
+        "mat": "wolfram",
+        "amount": 4750000
+      },
+      {
+        "mat": "bismuth",
+        "amount": 4750000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#95",
+    "gLevel": 1209,
+    "gXp": 8900000,
+    "gPrice": 455,
+    "level": 1209,
+    "xp": 8900000
+  },
+  {
+    "mats": [
+      {
+        "mat": "lithium",
+        "amount": 8900000
+      },
+      {
+        "mat": "borax",
+        "amount": 5000000
+      },
+      {
+        "mat": "xenon",
+        "amount": 5000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#96",
+    "gLevel": 1223,
+    "gXp": 9100000,
+    "gPrice": 455,
+    "level": 1223,
+    "xp": 9100000
+  },
+  {
+    "mats": [
+      {
+        "mat": "aerogel",
+        "amount": 9400000
+      },
+      {
+        "mat": "nanotubes",
+        "amount": 9400000
+      },
+      {
+        "mat": "wolfram",
+        "amount": 5250000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#97",
+    "gLevel": 1237,
+    "gXp": 9300000,
+    "gPrice": 455,
+    "level": 1237,
+    "xp": 9300000
+  },
+  {
+    "mats": [
+      {
+        "mat": "lithium",
+        "amount": 9900000
+      },
+      {
+        "mat": "borax",
+        "amount": 5600000
+      },
+      {
+        "mat": "bismuth",
+        "amount": 5600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#98",
+    "gLevel": 1251,
+    "gXp": 9500000,
+    "gPrice": 455,
+    "level": 1251,
+    "xp": 9500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "neodymium",
+        "amount": 10400000
+      },
+      {
+        "mat": "wolfram",
+        "amount": 5950000
+      },
+      {
+        "mat": "xenon",
+        "amount": 5950000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "localSlots",
+    "desc": "#99",
+    "gLevel": 1265,
+    "gXp": 9700000,
+    "gPrice": 455,
+    "level": 1265,
+    "xp": 9700000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 8000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#1",
+    "gLevel": 0,
+    "gXp": 0,
+    "gPrice": 0,
+    "level": 10,
+    "xp": 230
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 100000
+      },
+      {
+        "mat": "nails",
+        "amount": 7000
+      },
+      {
+        "mat": "bricks",
+        "amount": 7000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#2",
+    "gLevel": 13,
+    "gXp": 4550,
+    "gPrice": 100,
+    "level": 18,
+    "xp": 4660
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 64000
+      },
+      {
+        "mat": "steel",
+        "amount": 52000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#3",
+    "gLevel": 18,
+    "gXp": 6750,
+    "gPrice": 120,
+    "level": 25,
+    "xp": 11600
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 68000
+      },
+      {
+        "mat": "nails",
+        "amount": 82000
+      },
+      {
+        "mat": "glass",
+        "amount": 42000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#4",
+    "gLevel": 25,
+    "gXp": 10500,
+    "gPrice": 150,
+    "level": 34,
+    "xp": 16280
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 450000
+      },
+      {
+        "mat": "fuel",
+        "amount": 49500
+      },
+      {
+        "mat": "cement",
+        "amount": 49500
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#5",
+    "gLevel": 34,
+    "gXp": 15200,
+    "gPrice": 175,
+    "level": 45,
+    "xp": 13500
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 108000
+      },
+      {
+        "mat": "fuel",
+        "amount": 108000
+      },
+      {
+        "mat": "gravel",
+        "amount": 108000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#6",
+    "gLevel": 45,
+    "gXp": 17000,
+    "gPrice": 200,
+    "level": 58,
+    "xp": 20000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 1000000
+      },
+      {
+        "mat": "u-235",
+        "amount": 1000000
+      },
+      {
+        "mat": "cement",
+        "amount": 1000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#7",
+    "gLevel": 58,
+    "gXp": 40000,
+    "gPrice": 225,
+    "level": 72,
+    "xp": 40000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 315000
+      },
+      {
+        "mat": "nails",
+        "amount": 315000
+      },
+      {
+        "mat": "fuel",
+        "amount": 315000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#8",
+    "gLevel": 72,
+    "gXp": 70000,
+    "gPrice": 250,
+    "level": 86,
+    "xp": 68000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 630000
+      },
+      {
+        "mat": "u-235",
+        "amount": 540000
+      },
+      {
+        "mat": "cement",
+        "amount": 450000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#9",
+    "gLevel": 86,
+    "gXp": 150000,
+    "gPrice": 300,
+    "level": 100,
+    "xp": 150000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 450000
+      },
+      {
+        "mat": "fuel",
+        "amount": 679500
+      },
+      {
+        "mat": "steel",
+        "amount": 450000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#10",
+    "gLevel": 100,
+    "gXp": 200000,
+    "gPrice": 350,
+    "level": 114,
+    "xp": 180000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 1080000
+      },
+      {
+        "mat": "gravel",
+        "amount": 990000
+      },
+      {
+        "mat": "cement",
+        "amount": 900000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#11",
+    "gLevel": 114,
+    "gXp": 285000,
+    "gPrice": 400,
+    "level": 128,
+    "xp": 255000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 1350000
+      },
+      {
+        "mat": "u-235",
+        "amount": 1350000
+      },
+      {
+        "mat": "cement",
+        "amount": 1350000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#12",
+    "gLevel": 125,
+    "gXp": 390000,
+    "gPrice": 450,
+    "level": 142,
+    "xp": 350000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 10000000
+      },
+      {
+        "mat": "wires",
+        "amount": 1300000
+      },
+      {
+        "mat": "silicon",
+        "amount": 1300000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#13",
+    "gLevel": 142,
+    "gXp": 420000,
+    "gPrice": 450,
+    "level": 156,
+    "xp": 420000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 1395000
+      },
+      {
+        "mat": "u-235",
+        "amount": 1305000
+      },
+      {
+        "mat": "carbon",
+        "amount": 1305000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#14",
+    "gLevel": 156,
+    "gXp": 420000,
+    "gPrice": 450,
+    "level": 170,
+    "xp": 400000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 1500000
+      },
+      {
+        "mat": "titanium",
+        "amount": 1400000
+      },
+      {
+        "mat": "plastics",
+        "amount": 1400000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#15",
+    "gLevel": 170,
+    "gXp": 428000,
+    "gPrice": 450,
+    "level": 184,
+    "xp": 428000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 1500000
+      },
+      {
+        "mat": "u-235",
+        "amount": 1500000
+      },
+      {
+        "mat": "carbon",
+        "amount": 1500000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#16",
+    "gLevel": 184,
+    "gXp": 450000,
+    "gPrice": 450,
+    "level": 198,
+    "xp": 450000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 1650000
+      },
+      {
+        "mat": "titanium",
+        "amount": 1550000
+      },
+      {
+        "mat": "marble",
+        "amount": 1650000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#17",
+    "gLevel": 198,
+    "gXp": 470000,
+    "gPrice": 450,
+    "level": 212,
+    "xp": 470000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 1700000
+      },
+      {
+        "mat": "cement",
+        "amount": 1600000
+      },
+      {
+        "mat": "rubber",
+        "amount": 1500000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#18",
+    "gLevel": 212,
+    "gXp": 470000,
+    "gPrice": 450,
+    "level": 226,
+    "xp": 470000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 1700000
+      },
+      {
+        "mat": "wires",
+        "amount": 1700000
+      },
+      {
+        "mat": "plastics",
+        "amount": 1700000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#19",
+    "gLevel": 226,
+    "gXp": 490000,
+    "gPrice": 450,
+    "level": 240,
+    "xp": 490000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 1800000
+      },
+      {
+        "mat": "u-235",
+        "amount": 1800000
+      },
+      {
+        "mat": "carbon",
+        "amount": 1800000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#20",
+    "gLevel": 240,
+    "gXp": 500000,
+    "gPrice": 450,
+    "level": 254,
+    "xp": 500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 1920000
+      },
+      {
+        "mat": "u-235",
+        "amount": 1920000
+      },
+      {
+        "mat": "cement",
+        "amount": 1930000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#21",
+    "gLevel": 254,
+    "gXp": 520000,
+    "gPrice": 450,
+    "level": 268,
+    "xp": 520000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 2130000
+      },
+      {
+        "mat": "marble",
+        "amount": 2100000
+      },
+      {
+        "mat": "wires",
+        "amount": 2000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#22",
+    "gLevel": 268,
+    "gXp": 540000,
+    "gPrice": 450,
+    "level": 282,
+    "xp": 540000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 2280000
+      },
+      {
+        "mat": "titanium",
+        "amount": 2210000
+      },
+      {
+        "mat": "plastics",
+        "amount": 2400000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#23",
+    "gLevel": 282,
+    "gXp": 550000,
+    "gPrice": 450,
+    "level": 296,
+    "xp": 550000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 2394000
+      },
+      {
+        "mat": "gravel",
+        "amount": 2400000
+      },
+      {
+        "mat": "marble",
+        "amount": 2500000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#24",
+    "gLevel": 296,
+    "gXp": 580000,
+    "gPrice": 450,
+    "level": 310,
+    "xp": 580000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 2513000
+      },
+      {
+        "mat": "steel",
+        "amount": 2550000
+      },
+      {
+        "mat": "carbon",
+        "amount": 2480000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#25",
+    "gLevel": 310,
+    "gXp": 610000,
+    "gPrice": 450,
+    "level": 324,
+    "xp": 610000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wires",
+        "amount": 2640000
+      },
+      {
+        "mat": "plastics",
+        "amount": 2600000
+      },
+      {
+        "mat": "silicon",
+        "amount": 2680000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#26",
+    "gLevel": 324,
+    "gXp": 640000,
+    "gPrice": 450,
+    "level": 338,
+    "xp": 640000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 2767000
+      },
+      {
+        "mat": "u-235",
+        "amount": 2767000
+      },
+      {
+        "mat": "titanium",
+        "amount": 2767000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#27",
+    "gLevel": 338,
+    "gXp": 660000,
+    "gPrice": 450,
+    "level": 352,
+    "xp": 660000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 2894000
+      },
+      {
+        "mat": "glass",
+        "amount": 2894000
+      },
+      {
+        "mat": "cement",
+        "amount": 2894000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#28",
+    "gLevel": 352,
+    "gXp": 680000,
+    "gPrice": 450,
+    "level": 366,
+    "xp": 680000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 3021000
+      },
+      {
+        "mat": "gravel",
+        "amount": 3021000
+      },
+      {
+        "mat": "rubber",
+        "amount": 3021000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#29",
+    "gLevel": 366,
+    "gXp": 700000,
+    "gPrice": 450,
+    "level": 380,
+    "xp": 700000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 3148000
+      },
+      {
+        "mat": "carbon",
+        "amount": 3148000
+      },
+      {
+        "mat": "plastics",
+        "amount": 3148000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#30",
+    "gLevel": 380,
+    "gXp": 720000,
+    "gPrice": 450,
+    "level": 394,
+    "xp": 720000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 3275000
+      },
+      {
+        "mat": "marble",
+        "amount": 3275000
+      },
+      {
+        "mat": "silicon",
+        "amount": 3275000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#31",
+    "gLevel": 394,
+    "gXp": 740000,
+    "gPrice": 450,
+    "level": 408,
+    "xp": 740000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 3400000
+      },
+      {
+        "mat": "fuel",
+        "amount": 3400000
+      },
+      {
+        "mat": "cement",
+        "amount": 3400000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#32",
+    "gLevel": 408,
+    "gXp": 760000,
+    "gPrice": 455,
+    "level": 422,
+    "xp": 760000
+  },
+  {
+    "mats": [
+      {
+        "mat": "rubber",
+        "amount": 3525000
+      },
+      {
+        "mat": "marble",
+        "amount": 3525000
+      },
+      {
+        "mat": "wires",
+        "amount": 3525000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#33",
+    "gLevel": 422,
+    "gXp": 780000,
+    "gPrice": 455,
+    "level": 436,
+    "xp": 780000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 3650000
+      },
+      {
+        "mat": "bricks",
+        "amount": 3650000
+      },
+      {
+        "mat": "steel",
+        "amount": 3650000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#34",
+    "gLevel": 436,
+    "gXp": 800000,
+    "gPrice": 455,
+    "level": 450,
+    "xp": 800000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 3775000
+      },
+      {
+        "mat": "gravel",
+        "amount": 3775000
+      },
+      {
+        "mat": "carbon",
+        "amount": 3775000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#35",
+    "gLevel": 450,
+    "gXp": 830000,
+    "gPrice": 455,
+    "level": 464,
+    "xp": 830000
+  },
+  {
+    "mats": [
+      {
+        "mat": "titanium",
+        "amount": 3900000
+      },
+      {
+        "mat": "plastics",
+        "amount": 3900000
+      },
+      {
+        "mat": "silicon",
+        "amount": 3900000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#36",
+    "gLevel": 464,
+    "gXp": 860000,
+    "gPrice": 455,
+    "level": 478,
+    "xp": 860000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 4050000
+      },
+      {
+        "mat": "glass",
+        "amount": 4050000
+      },
+      {
+        "mat": "u-235",
+        "amount": 4050000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#37",
+    "gLevel": 478,
+    "gXp": 900000,
+    "gPrice": 455,
+    "level": 492,
+    "xp": 900000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 4200000
+      },
+      {
+        "mat": "cement",
+        "amount": 4200000
+      },
+      {
+        "mat": "marble",
+        "amount": 4200000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#38",
+    "gLevel": 492,
+    "gXp": 950000,
+    "gPrice": 455,
+    "level": 506,
+    "xp": 950000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 4400000
+      },
+      {
+        "mat": "rubber",
+        "amount": 4400000
+      },
+      {
+        "mat": "wires",
+        "amount": 4400000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#39",
+    "gLevel": 506,
+    "gXp": 1000000,
+    "gPrice": 455,
+    "level": 520,
+    "xp": 1000000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 4600000
+      },
+      {
+        "mat": "rubber",
+        "amount": 4600000
+      },
+      {
+        "mat": "carbon",
+        "amount": 4600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#40",
+    "gLevel": 520,
+    "gXp": 1200000,
+    "gPrice": 455,
+    "level": 534,
+    "xp": 1200000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 4800000
+      },
+      {
+        "mat": "fuel",
+        "amount": 4800000
+      },
+      {
+        "mat": "cement",
+        "amount": 4800000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#41",
+    "gLevel": 534,
+    "gXp": 1300000,
+    "gPrice": 455,
+    "level": 548,
+    "xp": 1300000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 5000000
+      },
+      {
+        "mat": "carbon",
+        "amount": 5000000
+      },
+      {
+        "mat": "wires",
+        "amount": 5000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#42",
+    "gLevel": 548,
+    "gXp": 1400000,
+    "gPrice": 455,
+    "level": 562,
+    "xp": 1400000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 5200000
+      },
+      {
+        "mat": "bricks",
+        "amount": 5200000
+      },
+      {
+        "mat": "gravel",
+        "amount": 5200000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#43",
+    "gLevel": 562,
+    "gXp": 1500000,
+    "gPrice": 455,
+    "level": 576,
+    "xp": 1500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 5400000
+      },
+      {
+        "mat": "u-235",
+        "amount": 5400000
+      },
+      {
+        "mat": "rubber",
+        "amount": 5400000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#44",
+    "gLevel": 576,
+    "gXp": 1600000,
+    "gPrice": 455,
+    "level": 590,
+    "xp": 1600000
+  },
+  {
+    "mats": [
+      {
+        "mat": "titanium",
+        "amount": 5600000
+      },
+      {
+        "mat": "marble",
+        "amount": 5600000
+      },
+      {
+        "mat": "plastics",
+        "amount": 5600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#45",
+    "gLevel": 590,
+    "gXp": 1700000,
+    "gPrice": 455,
+    "level": 604,
+    "xp": 1700000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 5800000
+      },
+      {
+        "mat": "rubber",
+        "amount": 5800000
+      },
+      {
+        "mat": "silicon",
+        "amount": 5800000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#46",
+    "gLevel": 604,
+    "gXp": 1850000,
+    "gPrice": 455,
+    "level": 618,
+    "xp": 1850000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 6000000
+      },
+      {
+        "mat": "fuel",
+        "amount": 6000000
+      },
+      {
+        "mat": "titanium",
+        "amount": 6000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#47",
+    "gLevel": 618,
+    "gXp": 2000000,
+    "gPrice": 455,
+    "level": 632,
+    "xp": 2000000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 6200000
+      },
+      {
+        "mat": "u-235",
+        "amount": 6200000
+      },
+      {
+        "mat": "marble",
+        "amount": 6200000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#48",
+    "gLevel": 632,
+    "gXp": 2150000,
+    "gPrice": 455,
+    "level": 646,
+    "xp": 2150000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 6400000
+      },
+      {
+        "mat": "steel",
+        "amount": 6400000
+      },
+      {
+        "mat": "titanium",
+        "amount": 6400000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#49",
+    "gLevel": 646,
+    "gXp": 2300000,
+    "gPrice": 455,
+    "level": 660,
+    "xp": 2300000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 6600000
+      },
+      {
+        "mat": "rubber",
+        "amount": 6600000
+      },
+      {
+        "mat": "wires",
+        "amount": 6600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#50",
+    "gLevel": 660,
+    "gXp": 2450000,
+    "gPrice": 455,
+    "level": 674,
+    "xp": 2450000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 6800000
+      },
+      {
+        "mat": "cement",
+        "amount": 6800000
+      },
+      {
+        "mat": "carbon",
+        "amount": 6800000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#51",
+    "gLevel": 674,
+    "gXp": 2600000,
+    "gPrice": 455,
+    "level": 688,
+    "xp": 2600000
+  },
+  {
+    "mats": [
+      {
+        "mat": "titanium",
+        "amount": 7000000
+      },
+      {
+        "mat": "plastics",
+        "amount": 7000000
+      },
+      {
+        "mat": "silicon",
+        "amount": 7000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#52",
+    "gLevel": 688,
+    "gXp": 2750000,
+    "gPrice": 455,
+    "level": 702,
+    "xp": 2750000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 7350000
+      },
+      {
+        "mat": "bricks",
+        "amount": 7350000
+      },
+      {
+        "mat": "rubber",
+        "amount": 7350000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#53",
+    "gLevel": 702,
+    "gXp": 3036400,
+    "gPrice": 455,
+    "level": 716,
+    "xp": 2891800
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 7717500
+      },
+      {
+        "mat": "u-235",
+        "amount": 7717500
+      },
+      {
+        "mat": "wires",
+        "amount": 7717500
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#54",
+    "gLevel": 716,
+    "gXp": 3188200,
+    "gPrice": 455,
+    "level": 730,
+    "xp": 3036400
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 8103400
+      },
+      {
+        "mat": "cement",
+        "amount": 8103400
+      },
+      {
+        "mat": "titanium",
+        "amount": 8103400
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#55",
+    "gLevel": 730,
+    "gXp": 3347600,
+    "gPrice": 455,
+    "level": 744,
+    "xp": 3036400
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 8508600
+      },
+      {
+        "mat": "steel",
+        "amount": 8508600
+      },
+      {
+        "mat": "plastics",
+        "amount": 8508600
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#56",
+    "gLevel": 744,
+    "gXp": 3515000,
+    "gPrice": 455,
+    "level": 758,
+    "xp": 3347600
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 8934000
+      },
+      {
+        "mat": "carbon",
+        "amount": 8934000
+      },
+      {
+        "mat": "silicon",
+        "amount": 8934000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#57",
+    "gLevel": 758,
+    "gXp": 3690800,
+    "gPrice": 455,
+    "level": 772,
+    "xp": 3515000
+  },
+  {
+    "mats": [
+      {
+        "mat": "rubber",
+        "amount": 9380700
+      },
+      {
+        "mat": "marble",
+        "amount": 9380700
+      },
+      {
+        "mat": "wires",
+        "amount": 9380700
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#58",
+    "gLevel": 772,
+    "gXp": 3875300,
+    "gPrice": 455,
+    "level": 786,
+    "xp": 3690800
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 9849700
+      },
+      {
+        "mat": "nails",
+        "amount": 9849700
+      },
+      {
+        "mat": "gravel",
+        "amount": 9849700
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#59",
+    "gLevel": 786,
+    "gXp": 4069100,
+    "gPrice": 455,
+    "level": 800,
+    "xp": 3875300
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 10342200
+      },
+      {
+        "mat": "steel",
+        "amount": 10342200
+      },
+      {
+        "mat": "cement",
+        "amount": 10342200
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#60",
+    "gLevel": 800,
+    "gXp": 4272500,
+    "gPrice": 455,
+    "level": 814,
+    "xp": 4069100
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 10859300
+      },
+      {
+        "mat": "fuel",
+        "amount": 10859300
+      },
+      {
+        "mat": "plastics",
+        "amount": 10859300
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#61",
+    "gLevel": 814,
+    "gXp": 4486200,
+    "gPrice": 455,
+    "level": 828,
+    "xp": 4272500
+  },
+  {
+    "mats": [
+      {
+        "mat": "u-235",
+        "amount": 11402300
+      },
+      {
+        "mat": "titanium",
+        "amount": 11402300
+      },
+      {
+        "mat": "silicon",
+        "amount": 11402300
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#62",
+    "gLevel": 828,
+    "gXp": 4710500,
+    "gPrice": 455,
+    "level": 842,
+    "xp": 4486200
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 11972400
+      },
+      {
+        "mat": "carbon",
+        "amount": 11972400
+      },
+      {
+        "mat": "marble",
+        "amount": 11972400
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#63",
+    "gLevel": 842,
+    "gXp": 4946000,
+    "gPrice": 455,
+    "level": 856,
+    "xp": 4710500
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 12571000
+      },
+      {
+        "mat": "glass",
+        "amount": 12571000
+      },
+      {
+        "mat": "steel",
+        "amount": 1257100
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#64",
+    "gLevel": 856,
+    "gXp": 5193300,
+    "gPrice": 455,
+    "level": 870,
+    "xp": 4946000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 13199600
+      },
+      {
+        "mat": "wires",
+        "amount": 13199600
+      },
+      {
+        "mat": "silicon",
+        "amount": 13199600
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#65",
+    "gLevel": 870,
+    "gXp": 5453000,
+    "gPrice": 455,
+    "level": 884,
+    "xp": 5193300
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 13859600
+      },
+      {
+        "mat": "u-235",
+        "amount": 13859600
+      },
+      {
+        "mat": "rubber",
+        "amount": 13859600
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#66",
+    "gLevel": 884,
+    "gXp": 5725600,
+    "gPrice": 455,
+    "level": 898,
+    "xp": 5453000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 14552600
+      },
+      {
+        "mat": "carbon",
+        "amount": 14552600
+      },
+      {
+        "mat": "plastics",
+        "amount": 14552600
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#67",
+    "gLevel": 898,
+    "gXp": 6011900,
+    "gPrice": 455,
+    "level": 912,
+    "xp": 5725600
+  },
+  {
+    "mats": [
+      {
+        "mat": "cement",
+        "amount": 15280200
+      },
+      {
+        "mat": "titanium",
+        "amount": 15280200
+      },
+      {
+        "mat": "marble",
+        "amount": 15280200
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#68",
+    "gLevel": 912,
+    "gXp": 6312500,
+    "gPrice": 455,
+    "level": 926,
+    "xp": 6011900
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 16044200
+      },
+      {
+        "mat": "wires",
+        "amount": 16044200
+      },
+      {
+        "mat": "plastics",
+        "amount": 16044200
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#69",
+    "gLevel": 926,
+    "gXp": 6628100,
+    "gPrice": 455,
+    "level": 940,
+    "xp": 6312500
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 16846400
+      },
+      {
+        "mat": "wires",
+        "amount": 16846400
+      },
+      {
+        "mat": "plastics",
+        "amount": 16846400
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#70",
+    "gLevel": 940,
+    "gXp": 6959500,
+    "gPrice": 455,
+    "level": 954,
+    "xp": 6312500
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 17688700
+      },
+      {
+        "mat": "gravel",
+        "amount": 17688700
+      },
+      {
+        "mat": "rubber",
+        "amount": 17688700
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#71",
+    "gLevel": 954,
+    "gXp": 7307400,
+    "gPrice": 455,
+    "level": 968,
+    "xp": 6959500
+  },
+  {
+    "mats": [
+      {
+        "mat": "u-235",
+        "amount": 18573100
+      },
+      {
+        "mat": "marble",
+        "amount": 18573100
+      },
+      {
+        "mat": "silicon",
+        "amount": 18573100
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#72",
+    "gLevel": 968,
+    "gXp": 7672800,
+    "gPrice": 455,
+    "level": 982,
+    "xp": 7307400
+  },
+  {
+    "mats": [
+      {
+        "mat": "cement",
+        "amount": 19501800
+      },
+      {
+        "mat": "carbon",
+        "amount": 19501800
+      },
+      {
+        "mat": "titanium",
+        "amount": 19501800
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#73",
+    "gLevel": 982,
+    "gXp": 8056500,
+    "gPrice": 455,
+    "level": 996,
+    "xp": 7672800
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 20476900
+      },
+      {
+        "mat": "fuel",
+        "amount": 20476900
+      },
+      {
+        "mat": "plastics",
+        "amount": 20476900
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#74",
+    "gLevel": 996,
+    "gXp": 8459300,
+    "gPrice": 455,
+    "level": 1010,
+    "xp": 8056500
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 21500700
+      },
+      {
+        "mat": "gravel",
+        "amount": 21500700
+      },
+      {
+        "mat": "wires",
+        "amount": 21500700
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#75",
+    "gLevel": 1010,
+    "gXp": 8882200,
+    "gPrice": 455,
+    "level": 1024,
+    "xp": 8459300
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 22575700
+      },
+      {
+        "mat": "steel",
+        "amount": 22575700
+      },
+      {
+        "mat": "silicon",
+        "amount": 22575700
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#76",
+    "gLevel": 1024,
+    "gXp": 9326400,
+    "gPrice": 455,
+    "level": 1038,
+    "xp": 8882200
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 23704500
+      },
+      {
+        "mat": "titanium",
+        "amount": 23704500
+      },
+      {
+        "mat": "plastics",
+        "amount": 23704500
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#77",
+    "gLevel": 1038,
+    "gXp": 9792700,
+    "gPrice": 455,
+    "level": 1052,
+    "xp": 9326400
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 24889700
+      },
+      {
+        "mat": "glass",
+        "amount": 24889700
+      },
+      {
+        "mat": "rubber",
+        "amount": 24889700
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#78",
+    "gLevel": 1052,
+    "gXp": 10282300,
+    "gPrice": 455,
+    "level": 1066,
+    "xp": 9792700
+  },
+  {
+    "mats": [
+      {
+        "mat": "cement",
+        "amount": 26134200
+      },
+      {
+        "mat": "carbon",
+        "amount": 26134200
+      },
+      {
+        "mat": "marble",
+        "amount": 26134200
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#79",
+    "gLevel": 1066,
+    "gXp": 10796400,
+    "gPrice": 455,
+    "level": 1080,
+    "xp": 10282300
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 27440900
+      },
+      {
+        "mat": "u-235",
+        "amount": 27440900
+      },
+      {
+        "mat": "silicon",
+        "amount": 27440900
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#80",
+    "gLevel": 1080,
+    "gXp": 11336200,
+    "gPrice": 455,
+    "level": 1094,
+    "xp": 10796400
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 28812900
+      },
+      {
+        "mat": "fuel",
+        "amount": 28812900
+      },
+      {
+        "mat": "wires",
+        "amount": 28812900
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#81",
+    "gLevel": 1094,
+    "gXp": 11903000,
+    "gPrice": 455,
+    "level": 1108,
+    "xp": 11336200
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 30253500
+      },
+      {
+        "mat": "titanium",
+        "amount": 30253500
+      },
+      {
+        "mat": "plastics",
+        "amount": 30253500
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#82",
+    "gLevel": 1108,
+    "gXp": 12498200,
+    "gPrice": 455,
+    "level": 1122,
+    "xp": 11903000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 31766200
+      },
+      {
+        "mat": "rubber",
+        "amount": 31766200
+      },
+      {
+        "mat": "marble",
+        "amount": 31766200
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#83",
+    "gLevel": 1122,
+    "gXp": 13123100,
+    "gPrice": 455,
+    "level": 1136,
+    "xp": 12498200
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 33354500
+      },
+      {
+        "mat": "gravel",
+        "amount": 33354500
+      },
+      {
+        "mat": "carbon",
+        "amount": 33354500
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#84",
+    "gLevel": 1136,
+    "gXp": 13779200,
+    "gPrice": 455,
+    "level": 1150,
+    "xp": 13123100
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 35022200
+      },
+      {
+        "mat": "u-235",
+        "amount": 35022200
+      },
+      {
+        "mat": "cement",
+        "amount": 35022200
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#85",
+    "gLevel": 1150,
+    "gXp": 14468200,
+    "gPrice": 455,
+    "level": 1164,
+    "xp": 13779200
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 36773300
+      },
+      {
+        "mat": "wires",
+        "amount": 36773300
+      },
+      {
+        "mat": "silicon",
+        "amount": 36773300
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#86",
+    "gLevel": 1164,
+    "gXp": 15191600,
+    "gPrice": 455,
+    "level": 1178,
+    "xp": 14468200
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 38612000
+      },
+      {
+        "mat": "steel",
+        "amount": 38612000
+      },
+      {
+        "mat": "titanium",
+        "amount": 38612000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "internationalSlots",
+    "desc": "#87",
+    "gLevel": 1178,
+    "gXp": 15951200,
+    "gPrice": 455,
+    "level": 1192,
+    "xp": 15191600
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 200
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#6 & #7",
+    "gLevel": 0,
+    "gXp": 0,
+    "gPrice": 0,
+    "level": 15,
+    "xp": 10
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 40000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#8 & #9",
+    "gLevel": 13,
+    "gXp": 1750,
+    "gPrice": 35,
+    "level": 20,
+    "xp": 890
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 90000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#10 & #11",
+    "gLevel": 20,
+    "gXp": 3000,
+    "gPrice": 50,
+    "level": 26,
+    "xp": 1770
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 25000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#12 & #13",
+    "gLevel": 26,
+    "gXp": 4350,
+    "gPrice": 60,
+    "level": 33,
+    "xp": 3180
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 150000
+      },
+      {
+        "mat": "nails",
+        "amount": 55000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#14 & #15",
+    "gLevel": 33,
+    "gXp": 6400,
+    "gPrice": 75,
+    "level": 41,
+    "xp": 6440
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 99000
+      },
+      {
+        "mat": "glass",
+        "amount": 66000
+      },
+      {
+        "mat": "u-235",
+        "amount": 33000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#16 & #17",
+    "gLevel": 41,
+    "gXp": 9000,
+    "gPrice": 90,
+    "level": 50,
+    "xp": 8200
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 125000
+      },
+      {
+        "mat": "glass",
+        "amount": 85000
+      },
+      {
+        "mat": "steel",
+        "amount": 60000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#18 & #19",
+    "gLevel": 50,
+    "gXp": 18500,
+    "gPrice": 110,
+    "level": 60,
+    "xp": 18500
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 120000
+      },
+      {
+        "mat": "rubber",
+        "amount": 82000
+      },
+      {
+        "mat": "wires",
+        "amount": 62000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#20 & #21",
+    "gLevel": 60,
+    "gXp": 23500,
+    "gPrice": 125,
+    "level": 71,
+    "xp": 23500
+  },
+  {
+    "mats": [
+      {
+        "mat": "titanium",
+        "amount": 100000
+      },
+      {
+        "mat": "wires",
+        "amount": 100000
+      },
+      {
+        "mat": "plastics",
+        "amount": 100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#22 & #23",
+    "gLevel": 83,
+    "gXp": 34000,
+    "gPrice": 140,
+    "level": 83,
+    "xp": 34000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 185000
+      },
+      {
+        "mat": "glass",
+        "amount": 155000
+      },
+      {
+        "mat": "wires",
+        "amount": 125000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#24 & #25",
+    "gLevel": 105,
+    "gXp": 39000,
+    "gPrice": 155,
+    "level": 105,
+    "xp": 39000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 1500000
+      },
+      {
+        "mat": "u-235",
+        "amount": 175000
+      },
+      {
+        "mat": "plastics",
+        "amount": 175000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#26 & #27",
+    "gLevel": 120,
+    "gXp": 50000,
+    "gPrice": 170,
+    "level": 120,
+    "xp": 50000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 300000
+      },
+      {
+        "mat": "glass",
+        "amount": 300000
+      },
+      {
+        "mat": "carbon",
+        "amount": 300000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#28 & #29",
+    "gLevel": 120,
+    "gXp": 62500,
+    "gPrice": 185,
+    "level": 135,
+    "xp": 62500
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 5000000
+      },
+      {
+        "mat": "steel",
+        "amount": 310000
+      },
+      {
+        "mat": "silicon",
+        "amount": 265000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#30 & #31",
+    "gLevel": 150,
+    "gXp": 80000,
+    "gPrice": 200,
+    "level": 150,
+    "xp": 80000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 450000
+      },
+      {
+        "mat": "glass",
+        "amount": 450000
+      },
+      {
+        "mat": "rubber",
+        "amount": 300000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#32 & #33",
+    "gLevel": 165,
+    "gXp": 95000,
+    "gPrice": 215,
+    "level": 165,
+    "xp": 95000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 5500000
+      },
+      {
+        "mat": "titanium",
+        "amount": 550000
+      },
+      {
+        "mat": "plastics",
+        "amount": 450000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#34 & #35",
+    "gLevel": 152,
+    "gXp": 115000,
+    "gPrice": 230,
+    "level": 166,
+    "xp": 115000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 550000
+      },
+      {
+        "mat": "glass",
+        "amount": 550000
+      },
+      {
+        "mat": "u-235",
+        "amount": 550000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#36 & #37",
+    "gLevel": 195,
+    "gXp": 130000,
+    "gPrice": 245,
+    "level": 195,
+    "xp": 130000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 650000
+      },
+      {
+        "mat": "cement",
+        "amount": 650000
+      },
+      {
+        "mat": "silicon",
+        "amount": 650000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#38 & #39",
+    "gLevel": 195,
+    "gXp": 155000,
+    "gPrice": 260,
+    "level": 210,
+    "xp": 155000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 750000
+      },
+      {
+        "mat": "carbon",
+        "amount": 750000
+      },
+      {
+        "mat": "silicon",
+        "amount": 750000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#40 & #41",
+    "gLevel": 210,
+    "gXp": 175000,
+    "gPrice": 275,
+    "level": 225,
+    "xp": 175000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 900000
+      },
+      {
+        "mat": "cement",
+        "amount": 900000
+      },
+      {
+        "mat": "carbon",
+        "amount": 900000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#42 & #43",
+    "gLevel": 225,
+    "gXp": 195000,
+    "gPrice": 300,
+    "level": 240,
+    "xp": 195000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 1100000
+      },
+      {
+        "mat": "steel",
+        "amount": 1100000
+      },
+      {
+        "mat": "silicon",
+        "amount": 1100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#44 & #45",
+    "gLevel": 240,
+    "gXp": 225000,
+    "gPrice": 315,
+    "level": 255,
+    "xp": 225000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 1250000
+      },
+      {
+        "mat": "glass",
+        "amount": 1250000
+      },
+      {
+        "mat": "plastics",
+        "amount": 1250000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#46 & #47",
+    "gLevel": 255,
+    "gXp": 250000,
+    "gPrice": 330,
+    "level": 270,
+    "xp": 250000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 1375000
+      },
+      {
+        "mat": "cement",
+        "amount": 1375000
+      },
+      {
+        "mat": "carbon",
+        "amount": 1375000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#48 & #49",
+    "gLevel": 270,
+    "gXp": 250000,
+    "gPrice": 345,
+    "level": 285,
+    "xp": 250000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 1530000
+      },
+      {
+        "mat": "rubber",
+        "amount": 1530000
+      },
+      {
+        "mat": "titanium",
+        "amount": 1530000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#50 & #51",
+    "gLevel": 278,
+    "gXp": 290000,
+    "gPrice": 360,
+    "level": 292,
+    "xp": 290000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 1685000
+      },
+      {
+        "mat": "u-235",
+        "amount": 1685000
+      },
+      {
+        "mat": "silicon",
+        "amount": 1685000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#52 & #53",
+    "gLevel": 278,
+    "gXp": 300000,
+    "gPrice": 375,
+    "level": 300,
+    "xp": 300000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 1840000
+      },
+      {
+        "mat": "glass",
+        "amount": 1840000
+      },
+      {
+        "mat": "marble",
+        "amount": 1840000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#54 & #55",
+    "gLevel": 292,
+    "gXp": 315000,
+    "gPrice": 390,
+    "level": 306,
+    "xp": 315000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 1995000
+      },
+      {
+        "mat": "wires",
+        "amount": 1995000
+      },
+      {
+        "mat": "plastics",
+        "amount": 1995000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#56 & #57",
+    "gLevel": 306,
+    "gXp": 320000,
+    "gPrice": 405,
+    "level": 320,
+    "xp": 320000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 2150000
+      },
+      {
+        "mat": "gravel",
+        "amount": 2150000
+      },
+      {
+        "mat": "titanium",
+        "amount": 2150000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#58 & #59",
+    "gLevel": 320,
+    "gXp": 335000,
+    "gPrice": 420,
+    "level": 334,
+    "xp": 335000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 2305000
+      },
+      {
+        "mat": "rubber",
+        "amount": 2305000
+      },
+      {
+        "mat": "carbon",
+        "amount": 2305000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#60 & #61",
+    "gLevel": 334,
+    "gXp": 350000,
+    "gPrice": 435,
+    "level": 348,
+    "xp": 350000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 2450000
+      },
+      {
+        "mat": "fuel",
+        "amount": 2450000
+      },
+      {
+        "mat": "cement",
+        "amount": 2450000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#62 & #63",
+    "gLevel": 348,
+    "gXp": 375000,
+    "gPrice": 450,
+    "level": 362,
+    "xp": 375000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 2500000
+      },
+      {
+        "mat": "bricks",
+        "amount": 2500000
+      },
+      {
+        "mat": "steel",
+        "amount": 2500000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#64 & #65",
+    "gLevel": 362,
+    "gXp": 375000,
+    "gPrice": 450,
+    "level": 376,
+    "xp": 375000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 2550000
+      },
+      {
+        "mat": "carbon",
+        "amount": 2550000
+      },
+      {
+        "mat": "plastics",
+        "amount": 2550000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#66 & #67",
+    "gLevel": 376,
+    "gXp": 400000,
+    "gPrice": 450,
+    "level": 390,
+    "xp": 400000
+  },
+  {
+    "mats": [
+      {
+        "mat": "u-235",
+        "amount": 2600000
+      },
+      {
+        "mat": "titanium",
+        "amount": 2600000
+      },
+      {
+        "mat": "silicon",
+        "amount": 2600000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#68 & #69",
+    "gLevel": 390,
+    "gXp": 400000,
+    "gPrice": 450,
+    "level": 404,
+    "xp": 400000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 2650000
+      },
+      {
+        "mat": "glass",
+        "amount": 2650000
+      },
+      {
+        "mat": "fuel",
+        "amount": 2650000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#70 & #71",
+    "gLevel": 404,
+    "gXp": 415000,
+    "gPrice": 450,
+    "level": 418,
+    "xp": 415000
+  },
+  {
+    "mats": [
+      {
+        "mat": "cement",
+        "amount": 2700000
+      },
+      {
+        "mat": "marble",
+        "amount": 2700000
+      },
+      {
+        "mat": "wires",
+        "amount": 2700000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#72 & #73",
+    "gLevel": 418,
+    "gXp": 415000,
+    "gPrice": 455,
+    "level": 432,
+    "xp": 415000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 2750000
+      },
+      {
+        "mat": "steel",
+        "amount": 2750000
+      },
+      {
+        "mat": "rubber",
+        "amount": 2750000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#74 & #75",
+    "gLevel": 432,
+    "gXp": 430000,
+    "gPrice": 455,
+    "level": 446,
+    "xp": 430000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 2800000
+      },
+      {
+        "mat": "gravel",
+        "amount": 2800000
+      },
+      {
+        "mat": "carbon",
+        "amount": 2800000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#76 & #77",
+    "gLevel": 446,
+    "gXp": 430000,
+    "gPrice": 455,
+    "level": 460,
+    "xp": 430000
+  },
+  {
+    "mats": [
+      {
+        "mat": "titanium",
+        "amount": 2850000
+      },
+      {
+        "mat": "plastics",
+        "amount": 2850000
+      },
+      {
+        "mat": "silicon",
+        "amount": 2850000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#78 & #79",
+    "gLevel": 460,
+    "gXp": 445000,
+    "gPrice": 455,
+    "level": 474,
+    "xp": 445000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 2900000
+      },
+      {
+        "mat": "glass",
+        "amount": 2900000
+      },
+      {
+        "mat": "u-235",
+        "amount": 2900000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#80 & #81",
+    "gLevel": 474,
+    "gXp": 460000,
+    "gPrice": 455,
+    "level": 488,
+    "xp": 460000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 3000000
+      },
+      {
+        "mat": "cement",
+        "amount": 3000000
+      },
+      {
+        "mat": "marble",
+        "amount": 3000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#82 & #83",
+    "gLevel": 488,
+    "gXp": 475000,
+    "gPrice": 455,
+    "level": 502,
+    "xp": 475000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 3200000
+      },
+      {
+        "mat": "rubber",
+        "amount": 3200000
+      },
+      {
+        "mat": "wires",
+        "amount": 3200000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#84 & #85",
+    "gLevel": 502,
+    "gXp": 490000,
+    "gPrice": 455,
+    "level": 516,
+    "xp": 490000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 3400000
+      },
+      {
+        "mat": "bricks",
+        "amount": 3400000
+      },
+      {
+        "mat": "gravel",
+        "amount": 3400000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#86 & #87",
+    "gLevel": 516,
+    "gXp": 505000,
+    "gPrice": 455,
+    "level": 530,
+    "xp": 505000
+  },
+  {
+    "mats": [
+      {
+        "mat": "carbon",
+        "amount": 3700000
+      },
+      {
+        "mat": "plastics",
+        "amount": 3700000
+      },
+      {
+        "mat": "silicon",
+        "amount": 3700000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#88 & #89",
+    "gLevel": 530,
+    "gXp": 520000,
+    "gPrice": 455,
+    "level": 544,
+    "xp": 520000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 4000000
+      },
+      {
+        "mat": "u-235",
+        "amount": 4000000
+      },
+      {
+        "mat": "titanium",
+        "amount": 4000000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#90 & #91",
+    "gLevel": 544,
+    "gXp": 535000,
+    "gPrice": 455,
+    "level": 558,
+    "xp": 535000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 4300000
+      },
+      {
+        "mat": "fuel",
+        "amount": 4300000
+      },
+      {
+        "mat": "cement",
+        "amount": 4300000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#92 & #93",
+    "gLevel": 558,
+    "gXp": 550000,
+    "gPrice": 455,
+    "level": 572,
+    "xp": 550000
+  },
+  {
+    "mats": [
+      {
+        "mat": "rubber",
+        "amount": 4700000
+      },
+      {
+        "mat": "marble",
+        "amount": 4700000
+      },
+      {
+        "mat": "wires",
+        "amount": 4700000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#94 & #95",
+    "gLevel": 572,
+    "gXp": 565000,
+    "gPrice": 455,
+    "level": 586,
+    "xp": 565000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 5100000
+      },
+      {
+        "mat": "bricks",
+        "amount": 5100000
+      },
+      {
+        "mat": "steel",
+        "amount": 5100000
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#96 & #97",
+    "gLevel": 586,
+    "gXp": 580000,
+    "gPrice": 455,
+    "level": 600,
+    "xp": 580000
+  },
+  {
+    "mats": [
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#98 & #99",
+    "gLevel": 600,
+    "gXp": 610000,
+    "gPrice": 455,
+    "level": 0,
+    "xp": 0
+  },
+  {
+    "mats": [
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "slots",
+    "subCategory": "depotSlots",
+    "desc": "#100 & #101",
+    "gLevel": 600,
+    "gXp": 610000,
+    "gPrice": 455,
+    "level": 0,
+    "xp": 0
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 2000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#2 Street",
+    "gLevel": 0,
+    "gXp": 0,
+    "gPrice": 0,
+    "level": 5,
+    "xp": 70
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 450000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#3 Street",
+    "gLevel": 22,
+    "gXp": 7700,
+    "gPrice": 120,
+    "level": 39,
+    "xp": 7040
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 100000
+      },
+      {
+        "mat": "steel",
+        "amount": 80000
+      },
+      {
+        "mat": "gravel",
+        "amount": 80000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#4 Street",
+    "gLevel": 30,
+    "gXp": 11900,
+    "gPrice": 150,
+    "level": 50,
+    "xp": 17340
+  },
+  {
+    "mats": [
+      {
+        "mat": "cement",
+        "amount": 200000
+      },
+      {
+        "mat": "rubber",
+        "amount": 145000
+      },
+      {
+        "mat": "titanium",
+        "amount": 90000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#5 Street",
+    "gLevel": 53,
+    "gXp": 26000,
+    "gPrice": 240,
+    "level": 73,
+    "xp": 36000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 5000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#1 Street Extension",
+    "gLevel": 0,
+    "gXp": 0,
+    "gPrice": 0,
+    "level": 1,
+    "xp": 100
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 1500
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#2 Street Extension",
+    "gLevel": 6,
+    "gXp": 580,
+    "gPrice": 30,
+    "level": 8,
+    "xp": 50
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 10000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#3 Street Extension",
+    "gLevel": 5,
+    "gXp": 1450,
+    "gPrice": 40,
+    "level": 13,
+    "xp": 270
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 85000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#4 Street Extension",
+    "gLevel": 7,
+    "gXp": 2500,
+    "gPrice": 50,
+    "level": 23,
+    "xp": 1780
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 100000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#5 Street Extension",
+    "gLevel": 11,
+    "gXp": 4100,
+    "gPrice": 70,
+    "level": 28,
+    "xp": 1890
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 30000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#6 Street Extension",
+    "gLevel": 28,
+    "gXp": 5300,
+    "gPrice": 80,
+    "level": 33,
+    "xp": 3320
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 200000
+      },
+      {
+        "mat": "glass",
+        "amount": 30000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#7 Street Extension",
+    "gLevel": 33,
+    "gXp": 6650,
+    "gPrice": 90,
+    "level": 29,
+    "xp": 5470
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 250000
+      },
+      {
+        "mat": "bricks",
+        "amount": 55000
+      },
+      {
+        "mat": "u-235",
+        "amount": 2000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#8 Street Extension",
+    "gLevel": 29,
+    "gXp": 8150,
+    "gPrice": 100,
+    "level": 45,
+    "xp": 7650
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 290000
+      },
+      {
+        "mat": "steel",
+        "amount": 10000
+      },
+      {
+        "mat": "cement",
+        "amount": 45000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#9 Street Extension",
+    "gLevel": 45,
+    "gXp": 9950,
+    "gPrice": 110,
+    "level": 51,
+    "xp": 7440
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 355000
+      },
+      {
+        "mat": "gravel",
+        "amount": 45500
+      },
+      {
+        "mat": "u-235",
+        "amount": 20000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#10 Street Extension",
+    "gLevel": 51,
+    "gXp": 20000,
+    "gPrice": 120,
+    "level": 60,
+    "xp": 20000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 400000
+      },
+      {
+        "mat": "u-235",
+        "amount": 90000
+      },
+      {
+        "mat": "cement",
+        "amount": 40000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#11 Street Extension",
+    "gLevel": 43,
+    "gXp": 19000,
+    "gPrice": 130,
+    "level": 65,
+    "xp": 22000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 150000
+      },
+      {
+        "mat": "steel",
+        "amount": 120000
+      },
+      {
+        "mat": "cement",
+        "amount": 75000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#12 Street Extension",
+    "gLevel": 48,
+    "gXp": 21000,
+    "gPrice": 140,
+    "level": 70,
+    "xp": 25000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 145000
+      },
+      {
+        "mat": "u-235",
+        "amount": 100000
+      },
+      {
+        "mat": "cement",
+        "amount": 85000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#13 Street Extension",
+    "gLevel": 53,
+    "gXp": 22500,
+    "gPrice": 150,
+    "level": 77,
+    "xp": 28000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 145000
+      },
+      {
+        "mat": "cement",
+        "amount": 125000
+      },
+      {
+        "mat": "rubber",
+        "amount": 85000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#14 Street Extension",
+    "gLevel": 58,
+    "gXp": 26000,
+    "gPrice": 460,
+    "level": 87,
+    "xp": 32000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 165000
+      },
+      {
+        "mat": "gravel",
+        "amount": 175000
+      },
+      {
+        "mat": "rubber",
+        "amount": 100000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#15 Street Extension",
+    "gLevel": 87,
+    "gXp": 37000,
+    "gPrice": 180,
+    "level": 98,
+    "xp": 37000
+  },
+  {
+    "mats": [
+      {
+        "mat": "cement",
+        "amount": 200000
+      },
+      {
+        "mat": "rubber",
+        "amount": 150000
+      },
+      {
+        "mat": "carbon",
+        "amount": 100000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#16 Street Extension",
+    "gLevel": 78,
+    "gXp": 32000,
+    "gPrice": 200,
+    "level": 110,
+    "xp": 45000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 220000
+      },
+      {
+        "mat": "carbon",
+        "amount": 170000
+      },
+      {
+        "mat": "titanium",
+        "amount": 140000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#17 Street Extension",
+    "gLevel": 90,
+    "gXp": 48000,
+    "gPrice": 220,
+    "level": 130,
+    "xp": 48000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 4150000
+      },
+      {
+        "mat": "u-235",
+        "amount": 190000
+      },
+      {
+        "mat": "titanium",
+        "amount": 125000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#18 Street Extension",
+    "gLevel": 110,
+    "gXp": 115000,
+    "gPrice": 255,
+    "level": 150,
+    "xp": 115000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 380000
+      },
+      {
+        "mat": "u-235",
+        "amount": 420000
+      },
+      {
+        "mat": "titanium",
+        "amount": 460000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "main",
+    "desc": "#19 Street Extension",
+    "gLevel": 125,
+    "gXp": 100000,
+    "gPrice": 295,
+    "level": 175,
+    "xp": 130000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 825000
+      },
+      {
+        "mat": "u-235",
+        "amount": 888000
+      },
+      {
+        "mat": "cement",
+        "amount": 812000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#2 Station",
+    "gLevel": 125,
+    "gXp": 165000,
+    "gPrice": 350,
+    "level": 125,
+    "xp": 165000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 450000
+      },
+      {
+        "mat": "steel",
+        "amount": 700000
+      },
+      {
+        "mat": "gravel",
+        "amount": 700000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#2 Street",
+    "gLevel": 131,
+    "gXp": 150000,
+    "gPrice": 255,
+    "level": 140,
+    "xp": 150000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 650000
+      },
+      {
+        "mat": "rubber",
+        "amount": 580000
+      },
+      {
+        "mat": "titanium",
+        "amount": 550000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#3 Street",
+    "gLevel": 140,
+    "gXp": 150000,
+    "gPrice": 270,
+    "level": 155,
+    "xp": 150000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 5350000
+      },
+      {
+        "mat": "marble",
+        "amount": 300000
+      },
+      {
+        "mat": "wires",
+        "amount": 300000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#4 Street",
+    "gLevel": 160,
+    "gXp": 170000,
+    "gPrice": 270,
+    "level": 175,
+    "xp": 170000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 7000000
+      },
+      {
+        "mat": "plastics",
+        "amount": 500000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#5 Street",
+    "gLevel": 180,
+    "gXp": 250000,
+    "gPrice": 280,
+    "level": 195,
+    "xp": 250000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 1500000
+      },
+      {
+        "mat": "rubber",
+        "amount": 400000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#1 Street Extension",
+    "gLevel": 125,
+    "gXp": 60000,
+    "gPrice": 200,
+    "level": 130,
+    "xp": 60000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 500000
+      },
+      {
+        "mat": "nails",
+        "amount": 500000
+      },
+      {
+        "mat": "bricks",
+        "amount": 500000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#2 Street Extension",
+    "gLevel": 127,
+    "gXp": 80000,
+    "gPrice": 220,
+    "level": 135,
+    "xp": 80000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 2300000
+      },
+      {
+        "mat": "fuel",
+        "amount": 500000
+      },
+      {
+        "mat": "carbon",
+        "amount": 400000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#3 Street Extension",
+    "gLevel": 130,
+    "gXp": 120000,
+    "gPrice": 240,
+    "level": 140,
+    "xp": 120000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 7000000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#4 Street Extension",
+    "gLevel": 135,
+    "gXp": 145000,
+    "gPrice": 250,
+    "level": 148,
+    "xp": 145000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 5000000
+      },
+      {
+        "mat": "carbon",
+        "amount": 365000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#5 Street Extension",
+    "gLevel": 140,
+    "gXp": 145000,
+    "gPrice": 255,
+    "level": 155,
+    "xp": 145000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 8300000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#6 Street Extension",
+    "gLevel": 145,
+    "gXp": 145000,
+    "gPrice": 260,
+    "level": 165,
+    "xp": 145000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 4500000
+      },
+      {
+        "mat": "nails",
+        "amount": 400000
+      },
+      {
+        "mat": "gravel",
+        "amount": 400000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#7 Street Extension",
+    "gLevel": 150,
+    "gXp": 150000,
+    "gPrice": 260,
+    "level": 175,
+    "xp": 150000
+  },
+  {
+    "mats": [
+      {
+        "mat": "carbon",
+        "amount": 580000
+      },
+      {
+        "mat": "marble",
+        "amount": 350000
+      },
+      {
+        "mat": "wires",
+        "amount": 350000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#8 Street Extension",
+    "gLevel": 155,
+    "gXp": 150000,
+    "gPrice": 260,
+    "level": 185,
+    "xp": 150000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 6000000
+      },
+      {
+        "mat": "rubber",
+        "amount": 300000
+      },
+      {
+        "mat": "wires",
+        "amount": 250000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#9 Street Extension",
+    "gLevel": 160,
+    "gXp": 160000,
+    "gPrice": 260,
+    "level": 195,
+    "xp": 160000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 700000
+      },
+      {
+        "mat": "fuel",
+        "amount": 700000
+      },
+      {
+        "mat": "marble",
+        "amount": 450000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#10 Street Extension",
+    "gLevel": 165,
+    "gXp": 160000,
+    "gPrice": 270,
+    "level": 205,
+    "xp": 160000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 720000
+      },
+      {
+        "mat": "cement",
+        "amount": 620000
+      },
+      {
+        "mat": "wires",
+        "amount": 520000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#11 Street Extension",
+    "gLevel": 170,
+    "gXp": 160000,
+    "gPrice": 270,
+    "level": 215,
+    "xp": 160000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 6000000
+      },
+      {
+        "mat": "u-235",
+        "amount": 400000
+      },
+      {
+        "mat": "silicon",
+        "amount": 400000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#12 Street Extension",
+    "gLevel": 175,
+    "gXp": 170000,
+    "gPrice": 275,
+    "level": 225,
+    "xp": 170000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 650000
+      },
+      {
+        "mat": "fuel",
+        "amount": 750000
+      },
+      {
+        "mat": "plastics",
+        "amount": 550000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#13 Street Extension",
+    "gLevel": 180,
+    "gXp": 175000,
+    "gPrice": 275,
+    "level": 235,
+    "xp": 175000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 750000
+      },
+      {
+        "mat": "marble",
+        "amount": 600000
+      },
+      {
+        "mat": "wires",
+        "amount": 500000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#14 Street Extension",
+    "gLevel": 185,
+    "gXp": 190000,
+    "gPrice": 275,
+    "level": 245,
+    "xp": 190000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 8000000
+      },
+      {
+        "mat": "bricks",
+        "amount": 400000
+      },
+      {
+        "mat": "rubber",
+        "amount": 400000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "second",
+    "desc": "#15 Street Extension",
+    "gLevel": 190,
+    "gXp": 220000,
+    "gPrice": 280,
+    "level": 255,
+    "xp": 220000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 8500000
+      },
+      {
+        "mat": "wood",
+        "amount": 700000
+      },
+      {
+        "mat": "marble",
+        "amount": 700000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#3 Station",
+    "gLevel": 145,
+    "gXp": 195000,
+    "gPrice": 350,
+    "level": 145,
+    "xp": 195000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 600000
+      },
+      {
+        "mat": "fuel",
+        "amount": 580000
+      },
+      {
+        "mat": "plastics",
+        "amount": 560000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#2 Street",
+    "gLevel": 151,
+    "gXp": 145000,
+    "gPrice": 260,
+    "level": 159,
+    "xp": 145000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 635000
+      },
+      {
+        "mat": "glass",
+        "amount": 635000
+      },
+      {
+        "mat": "rubber",
+        "amount": 600000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#3 Street",
+    "gLevel": 160,
+    "gXp": 150000,
+    "gPrice": 270,
+    "level": 175,
+    "xp": 150000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 700000
+      },
+      {
+        "mat": "glass",
+        "amount": 700000
+      },
+      {
+        "mat": "marble",
+        "amount": 550000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#4 Street",
+    "gLevel": 180,
+    "gXp": 170000,
+    "gPrice": 275,
+    "level": 195,
+    "xp": 170000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 735000
+      },
+      {
+        "mat": "steel",
+        "amount": 735000
+      },
+      {
+        "mat": "carbon",
+        "amount": 735000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#5 Street",
+    "gLevel": 200,
+    "gXp": 250000,
+    "gPrice": 280,
+    "level": 215,
+    "xp": 250000
+  },
+  {
+    "mats": [
+      {
+        "mat": "cement",
+        "amount": 175000
+      },
+      {
+        "mat": "wires",
+        "amount": 180000
+      },
+      {
+        "mat": "silicon",
+        "amount": 185000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#1 Street Extension",
+    "gLevel": 145,
+    "gXp": 60000,
+    "gPrice": 200,
+    "level": 150,
+    "xp": 60000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 385000
+      },
+      {
+        "mat": "glass",
+        "amount": 385000
+      },
+      {
+        "mat": "gravel",
+        "amount": 385000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#2 Street Extension",
+    "gLevel": 147,
+    "gXp": 80000,
+    "gPrice": 220,
+    "level": 155,
+    "xp": 80000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 3500000
+      },
+      {
+        "mat": "bricks",
+        "amount": 500000
+      },
+      {
+        "mat": "plastics",
+        "amount": 500000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#3 Street Extension",
+    "gLevel": 150,
+    "gXp": 130000,
+    "gPrice": 240,
+    "level": 160,
+    "xp": 130000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 550000
+      },
+      {
+        "mat": "rubber",
+        "amount": 550000
+      },
+      {
+        "mat": "carbon",
+        "amount": 550000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#4 Street Extension",
+    "gLevel": 155,
+    "gXp": 140000,
+    "gPrice": 250,
+    "level": 167,
+    "xp": 140000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 4500000
+      },
+      {
+        "mat": "cement",
+        "amount": 450000
+      },
+      {
+        "mat": "titanium",
+        "amount": 450000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#5 Street Extension",
+    "gLevel": 160,
+    "gXp": 155000,
+    "gPrice": 255,
+    "level": 175,
+    "xp": 155000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 655000
+      },
+      {
+        "mat": "titanium",
+        "amount": 485000
+      },
+      {
+        "mat": "silicon",
+        "amount": 485000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#6 Street Extension",
+    "gLevel": 165,
+    "gXp": 175000,
+    "gPrice": 260,
+    "level": 185,
+    "xp": 175000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 700000
+      },
+      {
+        "mat": "gravel",
+        "amount": 700000
+      },
+      {
+        "mat": "carbon",
+        "amount": 550000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#7 Street Extension",
+    "gLevel": 170,
+    "gXp": 185000,
+    "gPrice": 265,
+    "level": 195,
+    "xp": 185000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 7000000
+      },
+      {
+        "mat": "u-235",
+        "amount": 400000
+      },
+      {
+        "mat": "plastics",
+        "amount": 400000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#8 Street Extension",
+    "gLevel": 175,
+    "gXp": 190000,
+    "gPrice": 270,
+    "level": 205,
+    "xp": 190000
+  },
+  {
+    "mats": [
+      {
+        "mat": "rubber",
+        "amount": 500000
+      },
+      {
+        "mat": "marble",
+        "amount": 500000
+      },
+      {
+        "mat": "wires",
+        "amount": 500000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#9 Street Extension",
+    "gLevel": 180,
+    "gXp": 195000,
+    "gPrice": 270,
+    "level": 215,
+    "xp": 195000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 625000
+      },
+      {
+        "mat": "fuel",
+        "amount": 625000
+      },
+      {
+        "mat": "carbon",
+        "amount": 600000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#10 Street Extension",
+    "gLevel": 185,
+    "gXp": 195000,
+    "gPrice": 270,
+    "level": 225,
+    "xp": 195000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 625000
+      },
+      {
+        "mat": "cement",
+        "amount": 625000
+      },
+      {
+        "mat": "silicon",
+        "amount": 600000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#11 Street Extension",
+    "gLevel": 190,
+    "gXp": 195000,
+    "gPrice": 270,
+    "level": 235,
+    "xp": 195000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 700000
+      },
+      {
+        "mat": "wires",
+        "amount": 650000
+      },
+      {
+        "mat": "plastics",
+        "amount": 650000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#12 Street Extension",
+    "gLevel": 195,
+    "gXp": 195000,
+    "gPrice": 275,
+    "level": 245,
+    "xp": 195000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 670000
+      },
+      {
+        "mat": "u-235",
+        "amount": 670000
+      },
+      {
+        "mat": "plastics",
+        "amount": 670000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#13 Street Extension",
+    "gLevel": 200,
+    "gXp": 195000,
+    "gPrice": 275,
+    "level": 255,
+    "xp": 195000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 650000
+      },
+      {
+        "mat": "gravel",
+        "amount": 690000
+      },
+      {
+        "mat": "wires",
+        "amount": 690000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#14 Street Extension",
+    "gLevel": 205,
+    "gXp": 195000,
+    "gPrice": 275,
+    "level": 265,
+    "xp": 195000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 10000000
+      },
+      {
+        "mat": "titanium",
+        "amount": 700000
+      },
+      {
+        "mat": "silicon",
+        "amount": 700000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "third",
+    "desc": "#15 Street Extension",
+    "gLevel": 210,
+    "gXp": 200000,
+    "gPrice": 280,
+    "level": 275,
+    "xp": 200000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 250000000
+      },
+      {
+        "mat": "titanium",
+        "amount": 1180000
+      },
+      {
+        "mat": "silicon",
+        "amount": 1320000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#4 Station",
+    "gLevel": 180,
+    "gXp": 613000,
+    "gPrice": 370,
+    "level": 180,
+    "xp": 613000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 1660000
+      },
+      {
+        "mat": "u-235",
+        "amount": 1420000
+      },
+      {
+        "mat": "wires",
+        "amount": 1570000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#2 Street",
+    "gLevel": 195,
+    "gXp": 558000,
+    "gPrice": 330,
+    "level": 204,
+    "xp": 558000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 1660000
+      },
+      {
+        "mat": "gravel",
+        "amount": 1490000
+      },
+      {
+        "mat": "titanium",
+        "amount": 1750000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#3 Street",
+    "gLevel": 219,
+    "gXp": 637000,
+    "gPrice": 350,
+    "level": 232,
+    "xp": 637000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 3790000
+      },
+      {
+        "mat": "carbon",
+        "amount": 4210000
+      },
+      {
+        "mat": "wires",
+        "amount": 4450000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#4 Street",
+    "gLevel": 247,
+    "gXp": 1494000,
+    "gPrice": 370,
+    "level": 264,
+    "xp": 1494000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 8030000
+      },
+      {
+        "mat": "fuel",
+        "amount": 7600000
+      },
+      {
+        "mat": "marble",
+        "amount": 6840000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#5 Street",
+    "gLevel": 279,
+    "gXp": 2696000,
+    "gPrice": 390,
+    "level": 300,
+    "xp": 2696000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 710000
+      },
+      {
+        "mat": "gravel",
+        "amount": 680000
+      },
+      {
+        "mat": "carbon",
+        "amount": 610000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#1 Street Extension",
+    "gLevel": 180,
+    "gXp": 240000,
+    "gPrice": 280,
+    "level": 186,
+    "xp": 240000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 790000
+      },
+      {
+        "mat": "steel",
+        "amount": 880000
+      },
+      {
+        "mat": "plastics",
+        "amount": 930000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#2 Street Extension",
+    "gLevel": 186,
+    "gXp": 312000,
+    "gPrice": 280,
+    "level": 192,
+    "xp": 312000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 112000000
+      },
+      {
+        "mat": "rubber",
+        "amount": 920000
+      },
+      {
+        "mat": "marble",
+        "amount": 1030000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#3 Street Extension",
+    "gLevel": 192,
+    "gXp": 374000,
+    "gPrice": 280,
+    "level": 198,
+    "xp": 374000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 1240000
+      },
+      {
+        "mat": "fuel",
+        "amount": 1110000
+      },
+      {
+        "mat": "cement",
+        "amount": 1300000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#4 Street Extension",
+    "gLevel": 201,
+    "gXp": 438000,
+    "gPrice": 290,
+    "level": 211,
+    "xp": 438000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 1200000
+      },
+      {
+        "mat": "carbon",
+        "amount": 1340000
+      },
+      {
+        "mat": "silicon",
+        "amount": 1410000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#5 Street Extension",
+    "gLevel": 207,
+    "gXp": 474000,
+    "gPrice": 290,
+    "level": 218,
+    "xp": 474000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 187000000
+      },
+      {
+        "mat": "wood",
+        "amount": 1660000
+      },
+      {
+        "mat": "plastics",
+        "amount": 1490000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#6 Street Extension",
+    "gLevel": 213,
+    "gXp": 612000,
+    "gPrice": 290,
+    "level": 225,
+    "xp": 612000
+  },
+  {
+    "mats": [
+      {
+        "mat": "u-235",
+        "amount": 1730000
+      },
+      {
+        "mat": "cement",
+        "amount": 1930000
+      },
+      {
+        "mat": "wires",
+        "amount": 2040000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#7 Street Extension",
+    "gLevel": 226,
+    "gXp": 684000,
+    "gPrice": 300,
+    "level": 240,
+    "xp": 684000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 2360000
+      },
+      {
+        "mat": "fuel",
+        "amount": 2010000
+      },
+      {
+        "mat": "marble",
+        "amount": 2230000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#8 Street Extension",
+    "gLevel": 233,
+    "gXp": 792000,
+    "gPrice": 300,
+    "level": 248,
+    "xp": 792000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 317000000
+      },
+      {
+        "mat": "nails",
+        "amount": 2490000
+      },
+      {
+        "mat": "rubber",
+        "amount": 2760000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#9 Street Extension",
+    "gLevel": 240,
+    "gXp": 1026000,
+    "gPrice": 300,
+    "level": 256,
+    "xp": 1026000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 3430000
+      },
+      {
+        "mat": "cement",
+        "amount": 2920000
+      },
+      {
+        "mat": "silicon",
+        "amount": 3250000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#10 Street Extension",
+    "gLevel": 255,
+    "gXp": 1152000,
+    "gPrice": 310,
+    "level": 273,
+    "xp": 1152000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 3930000
+      },
+      {
+        "mat": "gravel",
+        "amount": 4140000
+      },
+      {
+        "mat": "plastics",
+        "amount": 3530000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#11 Street Extension",
+    "gLevel": 263,
+    "gXp": 1392000,
+    "gPrice": 310,
+    "level": 282,
+    "xp": 1392000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 611000000
+      },
+      {
+        "mat": "u-235",
+        "amount": 4970000
+      },
+      {
+        "mat": "titanium",
+        "amount": 5530000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#12 Street Extension",
+    "gLevel": 271,
+    "gXp": 1623000,
+    "gPrice": 310,
+    "level": 299,
+    "xp": 1623000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 5240000
+      },
+      {
+        "mat": "rubber",
+        "amount": 5540000
+      },
+      {
+        "mat": "silicon",
+        "amount": 4720000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#13 Street Extension",
+    "gLevel": 288,
+    "gXp": 1860000,
+    "gPrice": 320,
+    "level": 310,
+    "xp": 1860000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 5540000
+      },
+      {
+        "mat": "gravel",
+        "amount": 6160000
+      },
+      {
+        "mat": "cement",
+        "amount": 6500000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#14 Street Extension",
+    "gLevel": 297,
+    "gXp": 2184000,
+    "gPrice": 320,
+    "level": 320,
+    "xp": 2184000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 1160000000
+      },
+      {
+        "mat": "carbon",
+        "amount": 7340000
+      },
+      {
+        "mat": "wires",
+        "amount": 8160000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fourth",
+    "desc": "#15 Street Extension",
+    "gLevel": 306,
+    "gXp": 3310000,
+    "gPrice": 320,
+    "level": 330,
+    "xp": 3310000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 1050000000
+      },
+      {
+        "mat": "gravel",
+        "amount": 4930000
+      },
+      {
+        "mat": "u-235",
+        "amount": 4445000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#5 Station",
+    "gLevel": 220,
+    "gXp": 2438000,
+    "gPrice": 400,
+    "level": 220,
+    "xp": 2438000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 5140000
+      },
+      {
+        "mat": "carbon",
+        "amount": 4870000
+      },
+      {
+        "mat": "silicon",
+        "amount": 4390000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#2 Street",
+    "gLevel": 238,
+    "gXp": 1728000,
+    "gPrice": 350,
+    "level": 248,
+    "xp": 1728000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 9290000
+      },
+      {
+        "mat": "fuel",
+        "amount": 7920000
+      },
+      {
+        "mat": "carbon",
+        "amount": 8790000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#3 Street",
+    "gLevel": 266,
+    "gXp": 3380000,
+    "gPrice": 370,
+    "level": 280,
+    "xp": 3380000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 10615000
+      },
+      {
+        "mat": "cement",
+        "amount": 11800000
+      },
+      {
+        "mat": "plastics",
+        "amount": 12460000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#4 Street",
+    "gLevel": 298,
+    "gXp": 4185000,
+    "gPrice": 390,
+    "level": 319,
+    "xp": 4185000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 18660000
+      },
+      {
+        "mat": "titanium",
+        "amount": 17670000
+      },
+      {
+        "mat": "silicon",
+        "amount": 15910000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#5 Street",
+    "gLevel": 334,
+    "gXp": 6269000,
+    "gPrice": 410,
+    "level": 346,
+    "xp": 6269000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 9120000
+      },
+      {
+        "mat": "marble",
+        "amount": 2230000
+      },
+      {
+        "mat": "silicon",
+        "amount": 1900000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#1 Street Extension",
+    "gLevel": 220,
+    "gXp": 750000,
+    "gPrice": 290,
+    "level": 227,
+    "xp": 750000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 2540000
+      },
+      {
+        "mat": "cement",
+        "amount": 2280000
+      },
+      {
+        "mat": "plastics",
+        "amount": 2680000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#2 Street Extension",
+    "gLevel": 226,
+    "gXp": 900000,
+    "gPrice": 290,
+    "level": 234,
+    "xp": 900000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 455000000
+      },
+      {
+        "mat": "glass",
+        "amount": 4260000
+      },
+      {
+        "mat": "wires",
+        "amount": 3840000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#3 Street Extension",
+    "gLevel": 232,
+    "gXp": 1000000,
+    "gPrice": 290,
+    "level": 241,
+    "xp": 1000000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 3390000
+      },
+      {
+        "mat": "fuel",
+        "amount": 3220000
+      },
+      {
+        "mat": "rubber",
+        "amount": 2890000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#4 Street Extension",
+    "gLevel": 245,
+    "gXp": 1140000,
+    "gPrice": 300,
+    "level": 256,
+    "xp": 1140000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 3750000
+      },
+      {
+        "mat": "u-235",
+        "amount": 3550000
+      },
+      {
+        "mat": "titanium",
+        "amount": 3200000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#5 Street Extension",
+    "gLevel": 252,
+    "gXp": 1260000,
+    "gPrice": 300,
+    "level": 264,
+    "xp": 1260000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 790000000
+      },
+      {
+        "mat": "glass",
+        "amount": 6450000
+      },
+      {
+        "mat": "silicon",
+        "amount": 5800000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#6 Street Extension",
+    "gLevel": 259,
+    "gXp": 1500000,
+    "gPrice": 300,
+    "level": 272,
+    "xp": 1500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "cement",
+        "amount": 5130000
+      },
+      {
+        "mat": "titanium",
+        "amount": 4870000
+      },
+      {
+        "mat": "wires",
+        "amount": 4375000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#7 Street Extension",
+    "gLevel": 274,
+    "gXp": 1725000,
+    "gPrice": 310,
+    "level": 289,
+    "xp": 1725000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 5540000
+      },
+      {
+        "mat": "gravel",
+        "amount": 4720000
+      },
+      {
+        "mat": "marble",
+        "amount": 5240000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#8 Street Extension",
+    "gLevel": 282,
+    "gXp": 1860000,
+    "gPrice": 310,
+    "level": 298,
+    "xp": 1860000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 960000000
+      },
+      {
+        "mat": "nails",
+        "amount": 10260000
+      },
+      {
+        "mat": "rubber",
+        "amount": 9240000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#9 Street Extension",
+    "gLevel": 290,
+    "gXp": 2350000,
+    "gPrice": 310,
+    "level": 307,
+    "xp": 2350000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 7610000
+      },
+      {
+        "mat": "steel",
+        "amount": 8040000
+      },
+      {
+        "mat": "marble",
+        "amount": 6850000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#10 Street Extension",
+    "gLevel": 307,
+    "gXp": 2700000,
+    "gPrice": 320,
+    "level": 326,
+    "xp": 2700000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 8570000
+      },
+      {
+        "mat": "rubber",
+        "amount": 7310000
+      },
+      {
+        "mat": "wires",
+        "amount": 8120000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#11 Street Extension",
+    "gLevel": 316,
+    "gXp": 2880000,
+    "gPrice": 320,
+    "level": 336,
+    "xp": 2880000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 1875000000
+      },
+      {
+        "mat": "nails",
+        "amount": 13820000
+      },
+      {
+        "mat": "u-235",
+        "amount": 12430000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#12 Street Extension",
+    "gLevel": 325,
+    "gXp": 3200000,
+    "gPrice": 320,
+    "level": 346,
+    "xp": 3200000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 10450000
+      },
+      {
+        "mat": "carbon",
+        "amount": 9890000
+      },
+      {
+        "mat": "plastics",
+        "amount": 8910000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#13 Street Extension",
+    "gLevel": 344,
+    "gXp": 3510000,
+    "gPrice": 330,
+    "level": 367,
+    "xp": 3510000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 9670000
+      },
+      {
+        "mat": "bricks",
+        "amount": 10740000
+      },
+      {
+        "mat": "rubber",
+        "amount": 11340000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#14 Street Extension",
+    "gLevel": 367,
+    "gXp": 3810000,
+    "gPrice": 330,
+    "level": 378,
+    "xp": 3810000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 3000000000
+      },
+      {
+        "mat": "steel",
+        "amount": 19180000
+      },
+      {
+        "mat": "wires",
+        "amount": 17270000
+      }
+    ],
+    "category": "stations",
+    "subCategory": "fifth",
+    "desc": "#15 Street Extension",
+    "gLevel": 378,
+    "gXp": 4150000,
+    "gPrice": 330,
+    "level": 389,
+    "xp": 4150000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 70000
+      },
+      {
+        "mat": "bricks",
+        "amount": 15000
+      },
+      {
+        "mat": "steel",
+        "amount": 12500
+      }
+    ],
+    "category": "technology",
+    "subCategory": "trainRoute",
+    "desc": "#2 Recipients",
+    "gLevel": 30,
+    "gXp": 6350,
+    "gPrice": 80,
+    "level": 35,
+    "xp": 3460
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 62000
+      },
+      {
+        "mat": "glass",
+        "amount": 12000
+      },
+      {
+        "mat": "steel",
+        "amount": 14500
+      }
+    ],
+    "category": "technology",
+    "subCategory": "trainRoute",
+    "desc": "#3 Recipients",
+    "gLevel": 36,
+    "gXp": 9050,
+    "gPrice": 100,
+    "level": 44,
+    "xp": 6420
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 300000
+      },
+      {
+        "mat": "gravel",
+        "amount": 50000
+      },
+      {
+        "mat": "rubber",
+        "amount": 40000
+      }
+    ],
+    "category": "technology",
+    "subCategory": "trainRoute",
+    "desc": "#4 Recipients",
+    "gLevel": 45,
+    "gXp": 14150,
+    "gPrice": 130,
+    "level": 59,
+    "xp": 14000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 90000
+      },
+      {
+        "mat": "u-235",
+        "amount": 80000
+      },
+      {
+        "mat": "cement",
+        "amount": 70000
+      }
+    ],
+    "category": "technology",
+    "subCategory": "trainRoute",
+    "desc": "#5 Recipients",
+    "gLevel": 60,
+    "gXp": 22000,
+    "gPrice": 160,
+    "level": 75,
+    "xp": 22000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 130000
+      },
+      {
+        "mat": "rubber",
+        "amount": 100000
+      },
+      {
+        "mat": "carbon",
+        "amount": 100000
+      }
+    ],
+    "category": "technology",
+    "subCategory": "trainRoute",
+    "desc": "#6 Recipients",
+    "gLevel": 80,
+    "gXp": 30000,
+    "gPrice": 190,
+    "level": 95,
+    "xp": 30000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 195000
+      },
+      {
+        "mat": "cement",
+        "amount": 125000
+      },
+      {
+        "mat": "titanium",
+        "amount": 125000
+      }
+    ],
+    "category": "technology",
+    "subCategory": "trainRoute",
+    "desc": "#7 Recipients",
+    "gLevel": 100,
+    "gXp": 34000,
+    "gPrice": 220,
+    "level": 115,
+    "xp": 34000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 300000
+      },
+      {
+        "mat": "rubber",
+        "amount": 250000
+      },
+      {
+        "mat": "carbon",
+        "amount": 250000
+      }
+    ],
+    "category": "technology",
+    "subCategory": "trainRoute",
+    "desc": "#8 Recipients",
+    "gLevel": 120,
+    "gXp": 70000,
+    "gPrice": 250,
+    "level": 135,
+    "xp": 70000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 5000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "technology",
+    "subCategory": "other",
+    "desc": "Dieselisation",
+    "gLevel": 25,
+    "gXp": 7000,
+    "gPrice": 100,
+    "level": 25,
+    "xp": 500
+  },
+  {
+    "mats": [
+      {
+        "mat": "u-235",
+        "amount": 10000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "technology",
+    "subCategory": "other",
+    "desc": "Electrification",
+    "gLevel": 40,
+    "gXp": 14700,
+    "gPrice": 150,
+    "level": 40,
+    "xp": 770
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 90000
+      },
+      {
+        "mat": "steel",
+        "amount": 105000
+      },
+      {
+        "mat": "gravel",
+        "amount": 105000
+      }
+    ],
+    "category": "technology",
+    "subCategory": "other",
+    "desc": "One Click Unload",
+    "gLevel": 16,
+    "gXp": 2500,
+    "gPrice": 180,
+    "level": 35,
+    "xp": 10000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 550000
+      },
+      {
+        "mat": "wood",
+        "amount": 25000
+      },
+      {
+        "mat": "nails",
+        "amount": 25000
+      }
+    ],
+    "category": "technology",
+    "subCategory": "other",
+    "desc": "Enhanced Chests",
+    "gLevel": 17,
+    "gXp": 8650,
+    "gPrice": 160,
+    "level": 30,
+    "xp": 14550
+  },
+  {
+    "mats": [
+      {
+        "mat": "u-235",
+        "amount": 230000
+      },
+      {
+        "mat": "carbon",
+        "amount": 130000
+      },
+      {
+        "mat": "titanium",
+        "amount": 100000
+      }
+    ],
+    "category": "technology",
+    "subCategory": "other",
+    "desc": "Maglev Era",
+    "gLevel": 120,
+    "gXp": 50000,
+    "gPrice": 350,
+    "level": 120,
+    "xp": 50000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 200000000
+      },
+      {
+        "mat": "glass",
+        "amount": 500000
+      },
+      {
+        "mat": "plastics",
+        "amount": 500000
+      }
+    ],
+    "category": "technology",
+    "subCategory": "other",
+    "desc": "Hyperloop Era",
+    "gLevel": 200,
+    "gXp": 2000000,
+    "gPrice": 550,
+    "level": 200,
+    "xp": 2000000
+  },
+  {
+    "mats": [
+      {
+        "mat": "aerogel",
+        "amount": 15000
+      },
+      {
+        "mat": "nanotubes",
+        "amount": 15000
+      },
+      {
+        "mat": "neodymium",
+        "amount": 15000
+      }
+    ],
+    "category": "technology",
+    "subCategory": "other",
+    "desc": "Resend",
+    "gLevel": 200,
+    "gXp": 2000000,
+    "gPrice": 550,
+    "level": 200,
+    "xp": 2000000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 7000
+      },
+      {
+        "mat": "bricks",
+        "amount": 7000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Meadow",
+    "gLevel": 20,
+    "gXp": 4200,
+    "gPrice": 70,
+    "level": 20,
+    "xp": 1560
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 30000
+      },
+      {
+        "mat": "glass",
+        "amount": 30000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Harbour",
+    "gLevel": 30,
+    "gXp": 19850,
+    "gPrice": 250,
+    "level": 30,
+    "xp": 5460
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 250000
+      },
+      {
+        "mat": "gravel",
+        "amount": 25000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Orient",
+    "gLevel": 40,
+    "gXp": 24450,
+    "gPrice": 250,
+    "level": 40,
+    "xp": 5770
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 75000
+      },
+      {
+        "mat": "steel",
+        "amount": 28000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Rio",
+    "gLevel": 40,
+    "gXp": 26900,
+    "gPrice": 275,
+    "level": 40,
+    "xp": 7930
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 100000
+      },
+      {
+        "mat": "gravel",
+        "amount": 100000
+      },
+      {
+        "mat": "u-235",
+        "amount": 50000
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Metropolis",
+    "gLevel": 50,
+    "gXp": 29000,
+    "gPrice": 250,
+    "level": 50,
+    "xp": 16670
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 750000
+      },
+      {
+        "mat": "wood",
+        "amount": 200000
+      },
+      {
+        "mat": "cement",
+        "amount": 75000
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Nippon",
+    "gLevel": 60,
+    "gXp": 24000,
+    "gPrice": 250,
+    "level": 60,
+    "xp": 21000
+  },
+  {
+    "mats": [
+      {
+        "mat": "rubber",
+        "amount": 160000
+      },
+      {
+        "mat": "carbon",
+        "amount": 140000
+      },
+      {
+        "mat": "titanium",
+        "amount": 100000
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Land Down Under",
+    "gLevel": 70,
+    "gXp": 28000,
+    "gPrice": 270,
+    "level": 70,
+    "xp": 25000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 235000
+      },
+      {
+        "mat": "steel",
+        "amount": 175000
+      },
+      {
+        "mat": "titanium",
+        "amount": 125000
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Bratislava",
+    "gLevel": 80,
+    "gXp": 30500,
+    "gPrice": 275,
+    "level": 80,
+    "xp": 27000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 200000
+      },
+      {
+        "mat": "cement",
+        "amount": 150000
+      },
+      {
+        "mat": "marble",
+        "amount": 200000
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Venice",
+    "gLevel": 90,
+    "gXp": 47500,
+    "gPrice": 280,
+    "level": 90,
+    "xp": 40000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 250000
+      },
+      {
+        "mat": "wires",
+        "amount": 200000
+      },
+      {
+        "mat": "plastics",
+        "amount": 200000
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "London",
+    "gLevel": 100,
+    "gXp": 55000,
+    "gPrice": 285,
+    "level": 100,
+    "xp": 55000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 3200000
+      },
+      {
+        "mat": "bricks",
+        "amount": 250000
+      },
+      {
+        "mat": "silicon",
+        "amount": 250000
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Berlin",
+    "gLevel": 110,
+    "gXp": 67500,
+    "gPrice": 290,
+    "level": 110,
+    "xp": 65000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 315000
+      },
+      {
+        "mat": "steel",
+        "amount": 350000
+      },
+      {
+        "mat": "titanium",
+        "amount": 350000
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "San Francisco",
+    "gLevel": 130,
+    "gXp": 82500,
+    "gPrice": 310,
+    "level": 130,
+    "xp": 82500
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 1000000
+      },
+      {
+        "mat": "gravel",
+        "amount": 1000000
+      },
+      {
+        "mat": "plastics",
+        "amount": 1000000
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Barcelona",
+    "gLevel": 150,
+    "gXp": 280000,
+    "gPrice": 335,
+    "level": 150,
+    "xp": 240000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 1400000
+      },
+      {
+        "mat": "rubber",
+        "amount": 1400000
+      },
+      {
+        "mat": "carbon",
+        "amount": 1400000
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "New York",
+    "gLevel": 170,
+    "gXp": 315000,
+    "gPrice": 335,
+    "level": 170,
+    "xp": 315000
+  },
+  {
+    "mats": [
+      {
+        "mat": "lithium",
+        "amount": 8000
+      },
+      {
+        "mat": "aerogel",
+        "amount": 8000
+      },
+      {
+        "mat": "nanotubes",
+        "amount": 8000
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Eriport",
+    "gLevel": 200,
+    "gXp": 1200000,
+    "gPrice": 320,
+    "level": 200,
+    "xp": 1200000
+  },
+  {
+    "mats": [
+      {
+        "mat": "borax",
+        "amount": 26000
+      },
+      {
+        "mat": "wolfram",
+        "amount": 26000
+      },
+      {
+        "mat": "xenon",
+        "amount": 26000
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Neo Hong Kong",
+    "gLevel": 300,
+    "gXp": 1620000,
+    "gPrice": 380,
+    "level": 320,
+    "xp": 1620000
+  },
+  {
+    "mats": [
+      {
+        "mat": "lithium",
+        "amount": 48000
+      },
+      {
+        "mat": "aerogel",
+        "amount": 48000
+      },
+      {
+        "mat": "bismuth",
+        "amount": 48000
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Savanna",
+    "gLevel": 400,
+    "gXp": 2100000,
+    "gPrice": 380,
+    "level": 430,
+    "xp": 2100000
+  },
+  {
+    "mats": [
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Extra: Night",
+    "gLevel": 13,
+    "gXp": 9100,
+    "gPrice": 200,
+    "level": 0,
+    "xp": 0
+  },
+  {
+    "mats": [
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Extra: Snowfall",
+    "gLevel": 14,
+    "gXp": 9550,
+    "gPrice": 200,
+    "level": 0,
+    "xp": 0
+  },
+  {
+    "mats": [
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Extra: Bavaria",
+    "gLevel": 25,
+    "gXp": 4900,
+    "gPrice": 70,
+    "level": 0,
+    "xp": 0
+  },
+  {
+    "mats": [
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Extra: Nordic Summer",
+    "gLevel": 32,
+    "gXp": 8350,
+    "gPrice": 100,
+    "level": 0,
+    "xp": 0
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 95000
+      },
+      {
+        "mat": "glass",
+        "amount": 120000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "themes",
+    "subCategory": "all",
+    "desc": "Extra: Summer Mountains",
+    "gLevel": 0,
+    "gXp": 0,
+    "gPrice": 0,
+    "level": 44,
+    "xp": 15580
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 600
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "rails",
+    "subCategory": "all",
+    "desc": "#2 Rail",
+    "gLevel": 0,
+    "gXp": 0,
+    "gPrice": 0,
+    "level": 6,
+    "xp": 20
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 25000
+      },
+      {
+        "mat": "nails",
+        "amount": 25000
+      },
+      {
+        "mat": "glass",
+        "amount": 15000
+      }
+    ],
+    "category": "rails",
+    "subCategory": "all",
+    "desc": "#3 Rail",
+    "gLevel": 10,
+    "gXp": 5750,
+    "gPrice": 150,
+    "level": 36,
+    "xp": 8610
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 50000
+      },
+      {
+        "mat": "u-235",
+        "amount": 75000
+      },
+      {
+        "mat": "cement",
+        "amount": 50000
+      }
+    ],
+    "category": "rails",
+    "subCategory": "all",
+    "desc": "#4 Rail",
+    "gLevel": 35,
+    "gXp": 17750,
+    "gPrice": 200,
+    "level": 59,
+    "xp": 16500
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 2000000
+      },
+      {
+        "mat": "gravel",
+        "amount": 2000000
+      },
+      {
+        "mat": "plastics",
+        "amount": 2000000
+      }
+    ],
+    "category": "rails",
+    "subCategory": "all",
+    "desc": "#5 Rail",
+    "gLevel": 180,
+    "gXp": 325000,
+    "gPrice": 500,
+    "level": 280,
+    "xp": 325000
+  },
+  {
+    "mats": [
+      {
+        "mat": "titanium",
+        "amount": 655000
+      },
+      {
+        "mat": "wires",
+        "amount": 595000
+      },
+      {
+        "mat": "silicon",
+        "amount": 565000
+      }
+    ],
+    "category": "rails",
+    "subCategory": "all",
+    "desc": "#2 Maglev Rail",
+    "gLevel": 138,
+    "gXp": 205000,
+    "gPrice": 425,
+    "level": 155,
+    "xp": 205000
+  },
+  {
+    "mats": [
+      {
+        "mat": "rubber",
+        "amount": 13500000
+      },
+      {
+        "mat": "carbon",
+        "amount": 13500000
+      },
+      {
+        "mat": "silicon",
+        "amount": 13500000
+      }
+    ],
+    "category": "rails",
+    "subCategory": "all",
+    "desc": "#3 Maglev Rail",
+    "gLevel": 220,
+    "gXp": 3000000,
+    "gPrice": 650,
+    "level": 320,
+    "xp": 3000000
+  },
+  {
+    "mats": [
+      {
+        "mat": "borax",
+        "amount": 38000
+      },
+      {
+        "mat": "wolfram",
+        "amount": 38000
+      },
+      {
+        "mat": "bismuth",
+        "amount": 38000
+      }
+    ],
+    "category": "rails",
+    "subCategory": "all",
+    "desc": "#2 Hyperloop Rail",
+    "gLevel": 300,
+    "gXp": 3000000,
+    "gPrice": 730,
+    "level": 330,
+    "xp": 3000000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 100
+      },
+      {
+        "mat": "nails",
+        "amount": 100
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "200",
+    "gLevel": 0,
+    "gXp": 0,
+    "gPrice": 0,
+    "level": 11,
+    "xp": 30
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 40000
+      },
+      {
+        "mat": "nails",
+        "amount": 40000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "300",
+    "gLevel": 5,
+    "gXp": 1400,
+    "gPrice": 50,
+    "level": 30,
+    "xp": 7280
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 65000
+      },
+      {
+        "mat": "steel",
+        "amount": 45000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "400",
+    "gLevel": 10,
+    "gXp": 2300,
+    "gPrice": 60,
+    "level": 37,
+    "xp": 11300
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 95000
+      },
+      {
+        "mat": "bricks",
+        "amount": 15000
+      },
+      {
+        "mat": "glass",
+        "amount": 75000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "500",
+    "gLevel": 11,
+    "gXp": 2450,
+    "gPrice": 60,
+    "level": 47,
+    "xp": 14240
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 575000
+      },
+      {
+        "mat": "bricks",
+        "amount": 62500
+      },
+      {
+        "mat": "rubber",
+        "amount": 24500
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "600",
+    "gLevel": 15,
+    "gXp": 4000,
+    "gPrice": 60,
+    "level": 57,
+    "xp": 17000
+  },
+  {
+    "mats": [
+      {
+        "mat": "u-235",
+        "amount": 80000
+      },
+      {
+        "mat": "rubber",
+        "amount": 80000
+      },
+      {
+        "mat": "carbon",
+        "amount": 70000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "700",
+    "gLevel": 21,
+    "gXp": 4500,
+    "gPrice": 60,
+    "level": 67,
+    "xp": 23000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 850000
+      },
+      {
+        "mat": "fuel",
+        "amount": 100000
+      },
+      {
+        "mat": "carbon",
+        "amount": 100000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "800",
+    "gLevel": 27,
+    "gXp": 6500,
+    "gPrice": 65,
+    "level": 80,
+    "xp": 35000
+  },
+  {
+    "mats": [
+      {
+        "mat": "u-235",
+        "amount": 200000
+      },
+      {
+        "mat": "wires",
+        "amount": 130000
+      },
+      {
+        "mat": "plastics",
+        "amount": 130000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "900",
+    "gLevel": 45,
+    "gXp": 8500,
+    "gPrice": 80,
+    "level": 95,
+    "xp": 45000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 2200000
+      },
+      {
+        "mat": "wood",
+        "amount": 200000
+      },
+      {
+        "mat": "plastics",
+        "amount": 150000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "1000",
+    "gLevel": 60,
+    "gXp": 11000,
+    "gPrice": 100,
+    "level": 110,
+    "xp": 57500
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 250000
+      },
+      {
+        "mat": "fuel",
+        "amount": 240000
+      },
+      {
+        "mat": "silicon",
+        "amount": 230000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "1100",
+    "gLevel": 75,
+    "gXp": 40000,
+    "gPrice": 130,
+    "level": 125,
+    "xp": 65500
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 4000000
+      },
+      {
+        "mat": "u-235",
+        "amount": 300000
+      },
+      {
+        "mat": "silicon",
+        "amount": 300000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "1200",
+    "gLevel": 90,
+    "gXp": 55000,
+    "gPrice": 150,
+    "level": 140,
+    "xp": 75000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 300000
+      },
+      {
+        "mat": "titanium",
+        "amount": 275000
+      },
+      {
+        "mat": "silicon",
+        "amount": 275000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "1300",
+    "gLevel": 105,
+    "gXp": 70000,
+    "gPrice": 170,
+    "level": 155,
+    "xp": 81000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 4500000
+      },
+      {
+        "mat": "wood",
+        "amount": 300000
+      },
+      {
+        "mat": "glass",
+        "amount": 300000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "1400",
+    "gLevel": 115,
+    "gXp": 85000,
+    "gPrice": 190,
+    "level": 170,
+    "xp": 85000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 375000
+      },
+      {
+        "mat": "carbon",
+        "amount": 350000
+      },
+      {
+        "mat": "plastics",
+        "amount": 350000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "1500",
+    "gLevel": 135,
+    "gXp": 100000,
+    "gPrice": 200,
+    "level": 185,
+    "xp": 100000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 400000
+      },
+      {
+        "mat": "gravel",
+        "amount": 400000
+      },
+      {
+        "mat": "marble",
+        "amount": 380000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "1600",
+    "gLevel": 150,
+    "gXp": 110000,
+    "gPrice": 200,
+    "level": 200,
+    "xp": 110000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 480000
+      },
+      {
+        "mat": "cement",
+        "amount": 480000
+      },
+      {
+        "mat": "silicon",
+        "amount": 400000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "1700",
+    "gLevel": 165,
+    "gXp": 120000,
+    "gPrice": 210,
+    "level": 215,
+    "xp": 110000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 500000
+      },
+      {
+        "mat": "steel",
+        "amount": 500000
+      },
+      {
+        "mat": "marble",
+        "amount": 500000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "1800",
+    "gLevel": 180,
+    "gXp": 125000,
+    "gPrice": 220,
+    "level": 230,
+    "xp": 125000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gold",
+        "amount": 8000000
+      },
+      {
+        "mat": "rubber",
+        "amount": 400000
+      },
+      {
+        "mat": "null",
+        "amount": 0
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "1900",
+    "gLevel": 190,
+    "gXp": 130000,
+    "gPrice": 230,
+    "level": 245,
+    "xp": 130000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 600000
+      },
+      {
+        "mat": "bricks",
+        "amount": 650000
+      },
+      {
+        "mat": "rubber",
+        "amount": 630000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "2000",
+    "gLevel": 205,
+    "gXp": 135000,
+    "gPrice": 240,
+    "level": 260,
+    "xp": 135000
+  },
+  {
+    "mats": [
+      {
+        "mat": "titanium",
+        "amount": 660000
+      },
+      {
+        "mat": "marble",
+        "amount": 715000
+      },
+      {
+        "mat": "wires",
+        "amount": 700000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "2100",
+    "gLevel": 220,
+    "gXp": 155000,
+    "gPrice": 250,
+    "level": 275,
+    "xp": 155000
+  },
+  {
+    "mats": [
+      {
+        "mat": "cement",
+        "amount": 730000
+      },
+      {
+        "mat": "plastics",
+        "amount": 790000
+      },
+      {
+        "mat": "silicon",
+        "amount": 770000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "2200",
+    "gLevel": 235,
+    "gXp": 175000,
+    "gPrice": 260,
+    "level": 290,
+    "xp": 175000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 800000
+      },
+      {
+        "mat": "steel",
+        "amount": 800000
+      },
+      {
+        "mat": "carbon",
+        "amount": 800000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "2300",
+    "gLevel": 250,
+    "gXp": 195000,
+    "gPrice": 270,
+    "level": 305,
+    "xp": 195000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 870000
+      },
+      {
+        "mat": "gravel",
+        "amount": 870000
+      },
+      {
+        "mat": "rubber",
+        "amount": 870000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "2400",
+    "gLevel": 280,
+    "gXp": 215000,
+    "gPrice": 280,
+    "level": 320,
+    "xp": 215000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 940000
+      },
+      {
+        "mat": "glass",
+        "amount": 940000
+      },
+      {
+        "mat": "u-235",
+        "amount": 940000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "2500",
+    "gLevel": 280,
+    "gXp": 235000,
+    "gPrice": 290,
+    "level": 335,
+    "xp": 235000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 1050000
+      },
+      {
+        "mat": "cement",
+        "amount": 1050000
+      },
+      {
+        "mat": "titanium",
+        "amount": 1050000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "2600",
+    "gLevel": 295,
+    "gXp": 255000,
+    "gPrice": 290,
+    "level": 350,
+    "xp": 255000
+  },
+  {
+    "mats": [
+      {
+        "mat": "marble",
+        "amount": 1400000
+      },
+      {
+        "mat": "wires",
+        "amount": 1400000
+      },
+      {
+        "mat": "plastics",
+        "amount": 1400000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "2700",
+    "gLevel": 310,
+    "gXp": 275000,
+    "gPrice": 290,
+    "level": 365,
+    "xp": 275000
+  },
+  {
+    "mats": [
+      {
+        "mat": "rubber",
+        "amount": 1600000
+      },
+      {
+        "mat": "carbon",
+        "amount": 1600000
+      },
+      {
+        "mat": "silicon",
+        "amount": 1600000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "2800",
+    "gLevel": 325,
+    "gXp": 285000,
+    "gPrice": 310,
+    "level": 380,
+    "xp": 285000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 1800000
+      },
+      {
+        "mat": "steel",
+        "amount": 1800000
+      },
+      {
+        "mat": "gravel",
+        "amount": 1800000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "2900",
+    "gLevel": 340,
+    "gXp": 285000,
+    "gPrice": 320,
+    "level": 395,
+    "xp": 285000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 2100000
+      },
+      {
+        "mat": "nails",
+        "amount": 2100000
+      },
+      {
+        "mat": "glass",
+        "amount": 2100000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "3000",
+    "gLevel": 355,
+    "gXp": 295000,
+    "gPrice": 345,
+    "level": 410,
+    "xp": 295000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 2500000
+      },
+      {
+        "mat": "u-235",
+        "amount": 2500000
+      },
+      {
+        "mat": "cement",
+        "amount": 2500000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "3100",
+    "gLevel": 370,
+    "gXp": 310000,
+    "gPrice": 370,
+    "level": 425,
+    "xp": 310000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 3000000
+      },
+      {
+        "mat": "titanium",
+        "amount": 3000000
+      },
+      {
+        "mat": "silicon",
+        "amount": 3000000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "3200",
+    "gLevel": 385,
+    "gXp": 325000,
+    "gPrice": 395,
+    "level": 440,
+    "xp": 325000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 3600000
+      },
+      {
+        "mat": "carbon",
+        "amount": 3600000
+      },
+      {
+        "mat": "plastics",
+        "amount": 3600000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "3300",
+    "gLevel": 400,
+    "gXp": 325000,
+    "gPrice": 420,
+    "level": 455,
+    "xp": 325000
+  },
+  {
+    "mats": [
+      {
+        "mat": "rubber",
+        "amount": 4300000
+      },
+      {
+        "mat": "marble",
+        "amount": 4300000
+      },
+      {
+        "mat": "wires",
+        "amount": 4300000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "3400",
+    "gLevel": 415,
+    "gXp": 350000,
+    "gPrice": 455,
+    "level": 470,
+    "xp": 350000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 2625000
+      },
+      {
+        "mat": "fuel",
+        "amount": 2625000
+      },
+      {
+        "mat": "plastics",
+        "amount": 2625000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "3500",
+    "gLevel": 470,
+    "gXp": 375000,
+    "gPrice": 455,
+    "level": 485,
+    "xp": 375000
+  },
+  {
+    "mats": [
+      {
+        "mat": "u-235",
+        "amount": 2760000
+      },
+      {
+        "mat": "titanium",
+        "amount": 2760000
+      },
+      {
+        "mat": "silicon",
+        "amount": 2760000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "3600",
+    "gLevel": 485,
+    "gXp": 400000,
+    "gPrice": 455,
+    "level": 500,
+    "xp": 400000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 2890000
+      },
+      {
+        "mat": "carbon",
+        "amount": 2890000
+      },
+      {
+        "mat": "marble",
+        "amount": 2890000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "3700",
+    "gLevel": 500,
+    "gXp": 425000,
+    "gPrice": 455,
+    "level": 515,
+    "xp": 425000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 3040000
+      },
+      {
+        "mat": "bricks",
+        "amount": 3040000
+      },
+      {
+        "mat": "rubber",
+        "amount": 3040000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "3800",
+    "gLevel": 515,
+    "gXp": 450000,
+    "gPrice": 455,
+    "level": 530,
+    "xp": 450000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 3190000
+      },
+      {
+        "mat": "u-235",
+        "amount": 3190000
+      },
+      {
+        "mat": "wires",
+        "amount": 3190000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "3900",
+    "gLevel": 530,
+    "gXp": 475000,
+    "gPrice": 455,
+    "level": 545,
+    "xp": 475000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 3350000
+      },
+      {
+        "mat": "cement",
+        "amount": 3350000
+      },
+      {
+        "mat": "titanium",
+        "amount": 3350000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "4000",
+    "gLevel": 545,
+    "gXp": 500000,
+    "gPrice": 455,
+    "level": 560,
+    "xp": 500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 3520000
+      },
+      {
+        "mat": "steel",
+        "amount": 3520000
+      },
+      {
+        "mat": "plastics",
+        "amount": 3520000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "4100",
+    "gLevel": 560,
+    "gXp": 525000,
+    "gPrice": 455,
+    "level": 575,
+    "xp": 525000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 3690000
+      },
+      {
+        "mat": "carbon",
+        "amount": 3690000
+      },
+      {
+        "mat": "silicon",
+        "amount": 3690000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "4200",
+    "gLevel": 575,
+    "gXp": 550000,
+    "gPrice": 455,
+    "level": 590,
+    "xp": 550000
+  },
+  {
+    "mats": [
+      {
+        "mat": "rubber",
+        "amount": 3880000
+      },
+      {
+        "mat": "marble",
+        "amount": 3880000
+      },
+      {
+        "mat": "wires",
+        "amount": 3880000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "4300",
+    "gLevel": 590,
+    "gXp": 575000,
+    "gPrice": 455,
+    "level": 605,
+    "xp": 575000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 4070000
+      },
+      {
+        "mat": "nails",
+        "amount": 4070000
+      },
+      {
+        "mat": "gravel",
+        "amount": 4070000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "4400",
+    "gLevel": 605,
+    "gXp": 600000,
+    "gPrice": 455,
+    "level": 620,
+    "xp": 600000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 4280000
+      },
+      {
+        "mat": "steel",
+        "amount": 4280000
+      },
+      {
+        "mat": "cement",
+        "amount": 4280000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "4500",
+    "gLevel": 620,
+    "gXp": 625000,
+    "gPrice": 455,
+    "level": 635,
+    "xp": 625000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 4490000
+      },
+      {
+        "mat": "fuel",
+        "amount": 4490000
+      },
+      {
+        "mat": "plastics",
+        "amount": 4490000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "4600",
+    "gLevel": 635,
+    "gXp": 650000,
+    "gPrice": 455,
+    "level": 650,
+    "xp": 650000
+  },
+  {
+    "mats": [
+      {
+        "mat": "u-235",
+        "amount": 4710000
+      },
+      {
+        "mat": "titanium",
+        "amount": 4710000
+      },
+      {
+        "mat": "silicon",
+        "amount": 4710000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "4700",
+    "gLevel": 650,
+    "gXp": 675000,
+    "gPrice": 455,
+    "level": 665,
+    "xp": 675000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 4950000
+      },
+      {
+        "mat": "carbon",
+        "amount": 4950000
+      },
+      {
+        "mat": "marble",
+        "amount": 4950000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "4800",
+    "gLevel": 665,
+    "gXp": 700000,
+    "gPrice": 455,
+    "level": 680,
+    "xp": 700000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 5200000
+      },
+      {
+        "mat": "glass",
+        "amount": 5200000
+      },
+      {
+        "mat": "steel",
+        "amount": 5200000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "4900",
+    "gLevel": 680,
+    "gXp": 725000,
+    "gPrice": 455,
+    "level": 695,
+    "xp": 725000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 5460000
+      },
+      {
+        "mat": "wires",
+        "amount": 5460000
+      },
+      {
+        "mat": "silicon",
+        "amount": 5460000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "5000",
+    "gLevel": 695,
+    "gXp": 750000,
+    "gPrice": 455,
+    "level": 710,
+    "xp": 750000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 5730000
+      },
+      {
+        "mat": "u-235",
+        "amount": 5730000
+      },
+      {
+        "mat": "rubber",
+        "amount": 5730000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "5100",
+    "gLevel": 710,
+    "gXp": 775000,
+    "gPrice": 455,
+    "level": 725,
+    "xp": 775000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 6020000
+      },
+      {
+        "mat": "carbon",
+        "amount": 6020000
+      },
+      {
+        "mat": "plastics",
+        "amount": 6020000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "5200",
+    "gLevel": 725,
+    "gXp": 800000,
+    "gPrice": 455,
+    "level": 740,
+    "xp": 800000
+  },
+  {
+    "mats": [
+      {
+        "mat": "cement",
+        "amount": 6320000
+      },
+      {
+        "mat": "titanium",
+        "amount": 6320000
+      },
+      {
+        "mat": "marble",
+        "amount": 6320000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "5300",
+    "gLevel": 740,
+    "gXp": 825000,
+    "gPrice": 455,
+    "level": 755,
+    "xp": 825000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 6630000
+      },
+      {
+        "mat": "bricks",
+        "amount": 6630000
+      },
+      {
+        "mat": "steel",
+        "amount": 6630000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "5400",
+    "gLevel": 755,
+    "gXp": 850000,
+    "gPrice": 455,
+    "level": 770,
+    "xp": 850000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 6960000
+      },
+      {
+        "mat": "wires",
+        "amount": 6960000
+      },
+      {
+        "mat": "plastics",
+        "amount": 6960000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "5500",
+    "gLevel": 770,
+    "gXp": 875000,
+    "gPrice": 455,
+    "level": 785,
+    "xp": 875000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 7310000
+      },
+      {
+        "mat": "gravel",
+        "amount": 7310000
+      },
+      {
+        "mat": "rubber",
+        "amount": 7310000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "5600",
+    "gLevel": 785,
+    "gXp": 900000,
+    "gPrice": 455,
+    "level": 800,
+    "xp": 900000
+  },
+  {
+    "mats": [
+      {
+        "mat": "u-235",
+        "amount": 7680000
+      },
+      {
+        "mat": "marble",
+        "amount": 7680000
+      },
+      {
+        "mat": "silicon",
+        "amount": 7680000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "5700",
+    "gLevel": 800,
+    "gXp": 925000,
+    "gPrice": 455,
+    "level": 812,
+    "xp": 925000
+  },
+  {
+    "mats": [
+      {
+        "mat": "cement",
+        "amount": 8060000
+      },
+      {
+        "mat": "carbon",
+        "amount": 8060000
+      },
+      {
+        "mat": "titanium",
+        "amount": 8060000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "5800",
+    "gLevel": 815,
+    "gXp": 950000,
+    "gPrice": 455,
+    "level": 830,
+    "xp": 950000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 8470000
+      },
+      {
+        "mat": "fuel",
+        "amount": 8470000
+      },
+      {
+        "mat": "plastics",
+        "amount": 8470000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "5900",
+    "gLevel": 830,
+    "gXp": 975000,
+    "gPrice": 455,
+    "level": 845,
+    "xp": 975000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 8890000
+      },
+      {
+        "mat": "gravel",
+        "amount": 8890000
+      },
+      {
+        "mat": "wires",
+        "amount": 8890000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "6000",
+    "gLevel": 845,
+    "gXp": 1000000,
+    "gPrice": 455,
+    "level": 860,
+    "xp": 1000000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 9330000
+      },
+      {
+        "mat": "steel",
+        "amount": 9330000
+      },
+      {
+        "mat": "silicon",
+        "amount": 9330000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "6100",
+    "gLevel": 860,
+    "gXp": 1025000,
+    "gPrice": 455,
+    "level": 875,
+    "xp": 1025000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 9800000
+      },
+      {
+        "mat": "bricks",
+        "amount": 9800000
+      },
+      {
+        "mat": "rubber",
+        "amount": 9800000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "6200",
+    "gLevel": 875,
+    "gXp": 1050000,
+    "gPrice": 455,
+    "level": 890,
+    "xp": 1050000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 10290000
+      },
+      {
+        "mat": "u-235",
+        "amount": 10290000
+      },
+      {
+        "mat": "wires",
+        "amount": 10290000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "6300",
+    "gLevel": 890,
+    "gXp": 1075000,
+    "gPrice": 455,
+    "level": 905,
+    "xp": 1075000
+  },
+  {
+    "mats": [
+      {
+        "mat": "gravel",
+        "amount": 10800000
+      },
+      {
+        "mat": "cement",
+        "amount": 10800000
+      },
+      {
+        "mat": "titanium",
+        "amount": 10800000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "6400",
+    "gLevel": 905,
+    "gXp": 1100000,
+    "gPrice": 455,
+    "level": 920,
+    "xp": 1100000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 11350000
+      },
+      {
+        "mat": "steel",
+        "amount": 11350000
+      },
+      {
+        "mat": "plastics",
+        "amount": 11350000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "6500",
+    "gLevel": 920,
+    "gXp": 1125000,
+    "gPrice": 455,
+    "level": 935,
+    "xp": 1125000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 11350000
+      },
+      {
+        "mat": "carbon",
+        "amount": 11350000
+      },
+      {
+        "mat": "silicon",
+        "amount": 11350000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "6600",
+    "gLevel": 935,
+    "gXp": 1150000,
+    "gPrice": 455,
+    "level": 950,
+    "xp": 1150000
+  },
+  {
+    "mats": [
+      {
+        "mat": "rubber",
+        "amount": 12510000
+      },
+      {
+        "mat": "marble",
+        "amount": 12510000
+      },
+      {
+        "mat": "wires",
+        "amount": 12510000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "6700",
+    "gLevel": 950,
+    "gXp": 1175000,
+    "gPrice": 455,
+    "level": 965,
+    "xp": 1175000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 13130000
+      },
+      {
+        "mat": "nails",
+        "amount": 13130000
+      },
+      {
+        "mat": "gravel",
+        "amount": 13130000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "6800",
+    "gLevel": 965,
+    "gXp": 1200000,
+    "gPrice": 455,
+    "level": 980,
+    "xp": 1200000
+  },
+  {
+    "mats": [
+      {
+        "mat": "bricks",
+        "amount": 13790000
+      },
+      {
+        "mat": "steel",
+        "amount": 13790000
+      },
+      {
+        "mat": "cement",
+        "amount": 13790000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "6900",
+    "gLevel": 980,
+    "gXp": 1225000,
+    "gPrice": 455,
+    "level": 995,
+    "xp": 1225000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 14480000
+      },
+      {
+        "mat": "fuel",
+        "amount": 14480000
+      },
+      {
+        "mat": "plastics",
+        "amount": 14480000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "7000",
+    "gLevel": 995,
+    "gXp": 1250000,
+    "gPrice": 455,
+    "level": 1010,
+    "xp": 1250000
+  },
+  {
+    "mats": [
+      {
+        "mat": "u-235",
+        "amount": 15200000
+      },
+      {
+        "mat": "titanium",
+        "amount": 15200000
+      },
+      {
+        "mat": "silicon",
+        "amount": 15200000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "7100",
+    "gLevel": 1010,
+    "gXp": 1275000,
+    "gPrice": 455,
+    "level": 1025,
+    "xp": 1275000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 15960000
+      },
+      {
+        "mat": "carbon",
+        "amount": 15960000
+      },
+      {
+        "mat": "marble",
+        "amount": 15960000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "7200",
+    "gLevel": 1025,
+    "gXp": 1300000,
+    "gPrice": 455,
+    "level": 1040,
+    "xp": 1300000
+  },
+  {
+    "mats": [
+      {
+        "mat": "steel",
+        "amount": 16700000
+      },
+      {
+        "mat": "rubber",
+        "amount": 16700000
+      },
+      {
+        "mat": "carbon",
+        "amount": 16700000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "7300",
+    "gLevel": 1040,
+    "gXp": 1325000,
+    "gPrice": 455,
+    "level": 1055,
+    "xp": 1325000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 17440000
+      },
+      {
+        "mat": "bricks",
+        "amount": 17440000
+      },
+      {
+        "mat": "marble",
+        "amount": 17440000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "7400",
+    "gLevel": 1055,
+    "gXp": 1350000,
+    "gPrice": 455,
+    "level": 1070,
+    "xp": 1350000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 18180000
+      },
+      {
+        "mat": "gravel",
+        "amount": 18180000
+      },
+      {
+        "mat": "wires",
+        "amount": 18180000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "7500",
+    "gLevel": 1070,
+    "gXp": 1375000,
+    "gPrice": 455,
+    "level": 1085,
+    "xp": 1375000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 18920000
+      },
+      {
+        "mat": "titanium",
+        "amount": 18920000
+      },
+      {
+        "mat": "plastics",
+        "amount": 18920000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "7600",
+    "gLevel": 1085,
+    "gXp": 1400000,
+    "gPrice": 455,
+    "level": 1100,
+    "xp": 1400000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 19660000
+      },
+      {
+        "mat": "cement",
+        "amount": 19660000
+      },
+      {
+        "mat": "silicon",
+        "amount": 19660000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "7700",
+    "gLevel": 1100,
+    "gXp": 1425000,
+    "gPrice": 455,
+    "level": 1115,
+    "xp": 1425000
+  },
+  {
+    "mats": [
+      {
+        "mat": "u-235",
+        "amount": 20400000
+      },
+      {
+        "mat": "carbon",
+        "amount": 20400000
+      },
+      {
+        "mat": "marble",
+        "amount": 20400000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "7800",
+    "gLevel": 1115,
+    "gXp": 1450000,
+    "gPrice": 455,
+    "level": 1130,
+    "xp": 1450000
+  },
+  {
+    "mats": [
+      {
+        "mat": "wood",
+        "amount": 21140000
+      },
+      {
+        "mat": "steel",
+        "amount": 21140000
+      },
+      {
+        "mat": "rubber",
+        "amount": 21140000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "7900",
+    "gLevel": 1130,
+    "gXp": 1475000,
+    "gPrice": 455,
+    "level": 1145,
+    "xp": 1475000
+  },
+  {
+    "mats": [
+      {
+        "mat": "glass",
+        "amount": 21880000
+      },
+      {
+        "mat": "titanium",
+        "amount": 21880000
+      },
+      {
+        "mat": "wires",
+        "amount": 21880000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "8000",
+    "gLevel": 1145,
+    "gXp": 1500000,
+    "gPrice": 455,
+    "level": 1160,
+    "xp": 1500000
+  },
+  {
+    "mats": [
+      {
+        "mat": "fuel",
+        "amount": 22620000
+      },
+      {
+        "mat": "plastics",
+        "amount": 22620000
+      },
+      {
+        "mat": "silicon",
+        "amount": 22620000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "8100",
+    "gLevel": 1160,
+    "gXp": 1525000,
+    "gPrice": 455,
+    "level": 1175,
+    "xp": 1525000
+  },
+  {
+    "mats": [
+      {
+        "mat": "nails",
+        "amount": 23360000
+      },
+      {
+        "mat": "gravel",
+        "amount": 23360000
+      },
+      {
+        "mat": "cement",
+        "amount": 23360000
+      }
+    ],
+    "category": "storage",
+    "subCategory": "all",
+    "desc": "8200",
+    "gLevel": 1175,
+    "gXp": 1550000,
+    "gPrice": 455,
+    "level": 1190,
+    "xp": 1550000
+  }
+]
